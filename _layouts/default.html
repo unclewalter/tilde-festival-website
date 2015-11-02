@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body>
+  {% if page.class %}
+    <body class="{{ page.class }}">
+  {% else %}
+    <body>
+  {% endif %}
   <div class="wrapper-for-content-outside-of-footer">
       {% include header.html %}
       <div class="page-content">
