@@ -6,7 +6,6 @@ var gulp = require('gulp'),
 gulp.task('js-fef', function(){
     return gulp.src([
                     'assets/bower_components/jquery/dist/jquery.min.js', 
-                    'assets/bower_components/jquery-backstretch-2/jquery.backstretch.min.js', 
                     'assets/js/src/*.js'
                     ])
         .pipe(gp_concat('app.js'))
@@ -17,7 +16,7 @@ gulp.task('js-fef', function(){
 });
 
 gulp.task('watch', function () {
-   gulp.watch('assets/js/**/*.js', 'gulpfile.js' ['js-fef']); 
+   gulp.watch(['assets/js/**/*.js', 'gulpfile.js'], ['js-fef']);
 });
 
 gulp.task('default', ['js-fef'], function(){});
