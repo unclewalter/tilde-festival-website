@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	background-image: url('/assets/img/background.png');
+}
+
+.page-content {
+	@include outer-container;
+	background-color: #fff;
+	padding: 4em 3em;
+}
+
+section.frontpage-slideshow {
+	width: 100%;
+	height: 460px;
+	background-color: #012;
+	.slideshow {
+		height: 460px;
+		border-bottom: 2px solid #eee;
+	}
+}
+
+span.footer-copyright {
+	color: rgba(255, 255, 255, 0.4);
+	font-family: $sans-serif;
+}
+
+.festival-poster {
+	text-align: center;
+}
