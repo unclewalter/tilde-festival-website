@@ -4,19 +4,5 @@
       <a href="" class="hero-logo"><img src="/assets/img/header1018-012.jpg" alt="Logo Image"></a>
     </div>
   </div>
-  <div class="navigation-wrapper">
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
-        <!-- <li class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a> -->
-        {% for page in site.data.navigation %}
-          {% if page.title %}
-          <li class="nav-link"><a href="{{ page.url }}">{{ page.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
-    
-  </div>
+  {% include navigation.html %}
 </header>
-

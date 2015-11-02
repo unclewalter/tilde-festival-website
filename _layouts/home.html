@@ -1,26 +1,19 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
-  <body>
+  <body id="home">
     <div class="wrapper-for-content-outside-of-footer">
-    {% include header.html %}
-
-    <section class="frontpage-slideshow">
-      <div class="slideshow"></div>
-    </section>
-
-    <div class="page-content">
-      <div class="wrapper">
-        <h1 class="page-title">{{ page.title }}</h1>
-        {{ content }}
+      {% include header.html %}
+      <div class="page-content">
+        <section class="frontpage-slideshow">
+          
+        </section>
+        <div class="wrapper">
+          <h1 class="page-title">{{ page.title }}</h1>
+          {{ content }}
+        </div>
       </div>
     </div>
-  </div>
-
     {% include footer.html %}
-
   </body>
-
 </html>

@@ -6,7 +6,9 @@ body {
 .page-content {
 	@include outer-container;
 	background-color: #fff;
-	padding: 4em 3em;
+	.wrapper {
+		padding: 4em 3em;
+	}
 }
 
 section.frontpage-slideshow {
