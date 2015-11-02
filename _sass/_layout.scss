@@ -27,5 +27,25 @@ span.footer-copyright {
 }
 
 .festival-poster {
+	@include span-columns(8);
 	text-align: center;
 }
+
+.tilde-benefactors {
+	@include span-columns(4);
+	ul {
+		li {
+			list-style-type: none;
+			border-bottom: 1px solid #ddd;
+			margin-bottom: 1em;
+			p {
+				margin: 0;
+			}
+		}
+	}
+}
+
+#slides {
+  display:none;
+}
+

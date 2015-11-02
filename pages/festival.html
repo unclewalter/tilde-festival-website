@@ -14,8 +14,22 @@ permalink: /festival/
   <h3>Want to join the Tilde team?</h3>
   <h5>Send&nbsp;an email to <a href="mailto:info@tilde.net.au">info@tilde.net.au</a></h5>
   <h5>OR</h5>
-  <h5>submit a proposal via the <a href="http://www.tilde.net.au/calls/">calls</a> page</h5>
+  <h5>submit a proposal via the <a href="/calls/">calls</a> page</h5>
   <h5></h5>
   <h4></h4>
   <p>&nbsp;</p>
+</div>
+
+<div class="tilde-benefactors">
+  <h2><strong>2015 Festival Benefactors</strong></h2>
+  <ul>
+    {% for benefactor in site.data.benefactors %}
+      <li>
+        <h4>{{ benefactor.name }}</h3>
+        <p>
+          {{ benefactor.message | markdownify }}
+        </p>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
