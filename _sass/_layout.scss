@@ -33,6 +33,8 @@ span.footer-copyright {
 
 .tilde-benefactors {
 	@include span-columns(4);
+	min-width: 238px;
+	
 	ul {
 		li {
 			list-style-type: none;
