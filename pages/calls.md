@@ -21,11 +21,11 @@ Click above for the 2016 performance EOI. **This call is now closed.**
 
 [http://www.tilde.net.au/2016_collab/](http://www.tilde.net.au/2016_collab/)
 
-Click above if you are interested in as-yet unknown collaborations with people you may or may not know! This call is now **closed.**
+Click above if you are interested in as-yet unknown collaborations with people you may or may not know! **This call is now closed.**
 
 [http://www.tilde.net.au/2016_fixed_media/](http://www.tilde.net.au/2016_fixed_media/) 
 
-Click above for the fixed-media call. Closes the 1st of December, 2015.
+Click above for the fixed-media call. **This call is now closed.**
 
 Email [info@tilde.net.au](mailto:info@tilde.net.au) with any questions.
 
