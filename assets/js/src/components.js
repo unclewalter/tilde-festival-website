@@ -14,29 +14,39 @@ $(document).ready(function() {
 });
 
 // Slideshow
-$(function() {
-  $('#slides').slidesjs({
-    width: 1200,
-    height: 460,
-    play: {
-      active: false,
-      auto: true,
-      interval: 10000,
-      swap: true,
-      effect: "fade",
-      pauseOnHover: false
-    },
-    navigation: {
-      // effect: "fade",
-      active: false
-    },
-    pagination: {
-      active: false
-    },
-    effect: {
-      fade: {
-        speed: 2000
-      }
-    }
+$(window).load(function() {
+  $('.frontpage-slideshow').flexslider({
+    controlNav: false,
+    directionNav: false,
+    animationSpeed: 2000
   });
 });
+
+
+
+// $(function() {
+//   $('#slides').slidesjs({
+//     width: 1200,
+//     height: 460,
+//     play: {
+//       active: false,
+//       auto: true,
+//       interval: 10000,
+//       swap: true,
+//       effect: "fade",
+//       pauseOnHover: false
+//     },
+//     navigation: {
+//       // effect: "fade",
+//       active: false
+//     },
+//     pagination: {
+//       active: false
+//     },
+//     effect: {
+//       fade: {
+//         speed: 2000
+//       }
+//     }
+//   });
+// });

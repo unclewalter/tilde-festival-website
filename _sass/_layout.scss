@@ -12,12 +12,12 @@ body {
 }
 
 section.frontpage-slideshow {
-	width: 100%;
-	height: 460px;
 	background-color: #012;
-	.slideshow {
-		height: 460px;
-		border-bottom: 2px solid #eee;
+	border-bottom: 2px solid #eee;
+	.slides {
+		img {
+			width: 100%;
+		}
 	}
 }
 
@@ -45,9 +45,5 @@ span.footer-copyright {
 			}
 		}
 	}
-}
-
-#slides {
-  display:none;
 }
 
