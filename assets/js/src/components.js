@@ -13,7 +13,7 @@ $(document).ready(function() {
   });
 });
 
-// Slideshow
+// Frontpage Slideshow
 $(window).load(function() {
   $('.frontpage-slideshow').flexslider({
     controlNav: false,
@@ -21,32 +21,3 @@ $(window).load(function() {
     animationSpeed: 2000
   });
 });
-
-
-
-// $(function() {
-//   $('#slides').slidesjs({
-//     width: 1200,
-//     height: 460,
-//     play: {
-//       active: false,
-//       auto: true,
-//       interval: 10000,
-//       swap: true,
-//       effect: "fade",
-//       pauseOnHover: false
-//     },
-//     navigation: {
-//       // effect: "fade",
-//       active: false
-//     },
-//     pagination: {
-//       active: false
-//     },
-//     effect: {
-//       fade: {
-//         speed: 2000
-//       }
-//     }
-//   });
-// });
