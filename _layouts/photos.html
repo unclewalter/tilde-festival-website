@@ -2,4 +2,6 @@
 layout: default
 ---
 
-
+{% loop_directory directory:images/gallery iterator:image filter:*.jpg sort:descending %}
+   <img src="../images/gallery/{{ image }}.jpg" />
+{% endloop_directory %}
