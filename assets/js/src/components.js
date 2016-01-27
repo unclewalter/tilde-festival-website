@@ -13,20 +13,17 @@ $(document).ready(function() {
   });
 });
 
-// Frontpage Slideshow
 $(window).load(function() {
+  // Frontpage Slideshow
   $('.frontpage-slideshow').flexslider({
     controlNav: false,
     directionNav: false,
     animationSpeed: 2000
   });
-});
-
-// Add landscape class to landscape images
-$( document ).ready(function() {
-    $('section.image_gallery img').each(function() {
-      if ($(this).width() > $(this).height()) {
-        $(this).addClass('landscape');
-      }
-    });
+  // Add landscape class to landscape images
+  $('section.image_gallery img').each(function() {
+    if ($(this).width() > $(this).height()) {
+      $(this).addClass('landscape');
+    }
+  });
 });
