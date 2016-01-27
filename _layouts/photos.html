@@ -12,3 +12,14 @@ layout: default
  </div>
 {% endloop_directory %}
 </section>
+
+<script type="text/javascript">
+// Add landscape class to landscape images
+$( document ).ready(function() {
+    $('section.image_gallery img').each(function() {
+      if ($(this).width() > $(this).height()) {
+        $(this).addClass('landscape');
+      }
+    });
+});
+</script>

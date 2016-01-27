@@ -21,14 +21,3 @@ $(window).load(function() {
     animationSpeed: 2000
   });
 });
-
-// Add landscape class to landscape images
-$( document ).ready(function() {
-
-    $('section.image_gallery img').each(function() {
-      if ($(this).width() > $(this).height()) {
-        $(this).addClass('landscape');
-      }
-    });
-
-});
