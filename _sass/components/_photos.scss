@@ -19,45 +19,36 @@ section.image_gallery {
       max-height: 100%;
     }
   }
-}
 
-// Bodging up a fluid grid
-
-@media (max-width: 970px) {
-  section.image_gallery {
+  // Bodging up a fluid grid
+  @media (max-width: 970px) {
     div.crop {
       width: 18%;
+      height: auto;
     }
   }
-}
 
-@media (max-width: 840px) {
-  section.image_gallery {
+  @media (max-width: 840px) {
     div.crop {
       width: 22.5%;
+      height: auto;
     }
   }
-}
 
-@media (max-width: 745px) {
-  section.image_gallery {
+  @media (max-width: 650px) {
     div.crop {
       width: 30%;
+      height: auto;
     }
   }
-}
 
-@media (max-width: 660px) {
-  section.image_gallery {
+  @media (max-width: 550px) {
     div.crop {
       max-width: 150px;
       max-height: 150px;
-      width: 45%;
+      width: 43%;
+      height: auto;
       padding: 0;
-      img {
-        padding: 0;
-        margin: 0;
-      }
     }
   }
 }
