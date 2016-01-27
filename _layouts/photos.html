@@ -4,7 +4,11 @@ layout: default
 
 <h1>Photos</h1>
 
+<section class="image_gallery">
 {% loop_directory directory:images/gallery iterator:image filter:*.jpg sort:descending %}
+  <div class="crop">
    {% capture imageurl %}images/gallery/{{image}}.jpg{% endcapture %}
-   {% thumbnail imageurl 150x150< %}
+   {% thumbnail imageurl 150x150^ %}
+ </div>
 {% endloop_directory %}
+</section>
