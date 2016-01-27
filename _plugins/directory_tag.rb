@@ -3,6 +3,8 @@
 #   <img src="{{ image }}" />
 #{% endloop_directory %}
 
+require "mini_magick"
+
 module Jekyll
     class LoopDirectoryTag < Liquid::Block
 
@@ -13,9 +15,10 @@ module Jekyll
             @attributes = {}
 
             @attributes['directory'] = '';
-            @attributes['iterator'] = 'item';
-            @attributes['filter'] = 'item';
-            @attributes['sort'] = 'ascending';
+            @attributes['iterator']  = 'item';
+            @attributes['filter']    = 'item';
+            @attributes['sort']      = 'ascending';
+            @attributes['size']      = '';
 
             # Parse parameters
             if markup =~ Syntax
