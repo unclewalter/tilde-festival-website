@@ -5,8 +5,10 @@ var gulp = require('gulp'),
 
 gulp.task('js-fef', function(){
     return gulp.src([
-                    'assets/bower_components/jquery/dist/jquery.min.js', 
-                    'assets/js/src/*.js'
+                    'assets/bower_components/jquery/dist/jquery.min.js',
+                    'assets/js/src/*.js',
+                    'assets/bower_components/featherlight/release/featherlight.min.js',
+                    'assets/bower_components/featherlight/release/featherlight.gallery.min.js'
                     ])
         .pipe(gp_concat('app.js'))
         .pipe(gulp.dest('assets/js'))
