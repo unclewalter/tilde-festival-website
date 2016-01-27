@@ -25,5 +25,7 @@ $(window).load(function() {
     if ($(this).width() > $(this).height()) {
       $(this).addClass('landscape');
     }
+    // Fade in image once its aspect ratio is fixed
+    $(this).fadeTo('slow', 1);
   });
 });
