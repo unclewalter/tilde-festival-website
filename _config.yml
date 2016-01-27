@@ -8,4 +8,4 @@ url: "http://tilde.net.au" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-exclude: ['bower_components', 'node_modules', 'assets/js/src', 'assets/bower_components', 'gulpfile.js', 'package.json', 'bower.json']
+exclude: ['bower_components', 'node_modules', 'assets/js/src', 'assets/bower_components', 'gulpfile.js', 'package.json', 'bower.json', 'Gemfile', 'Gemfile.lock', 'bower.json', 'rakefile']
