@@ -1,4 +1,4 @@
 # tilde-festival-website
 Jekyll site for Tilde New Music and Sound Art festival
 
-[ ![Codeship Status for katkins/tilde-festival-website](https://codeship.com/projects/180ce730-806c-0133-524c-6a806c7dea8d/status?branch=master)](https://codeship.com/projects/120877)
+[ ![Codeship Status for katkins/tilde-festival-website](https://codeship.com/projects/c01645f0-a7a8-0133-33d2-721682b6b155/status?branch=master)](https://codeship.com/projects/120877)
