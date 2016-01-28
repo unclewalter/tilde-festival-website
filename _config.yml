@@ -11,5 +11,5 @@ markdown: kramdown
 exclude: ['bower_components', 'node_modules', 'assets/js/src', 'assets/bower_components', 'gulpfile.js', 'package.json', 'bower.json', 'Gemfile', 'Gemfile.lock', 'bower.json', 'rakefile', '.*']
 
 prose:
-  ignore: ['_includes', '_layouts', '_plugins', '_sass', '.bowerrc', '.gitignore', 'Gemfile*', '_config*', 'bower.json', 'feed.xml', 'gulpfile.js', 'package.json', 'rakefile']
+  ignore: ['_includes', '_layouts', '_plugins', '_sass', 'assets', '.bowerrc', '.gitignore', 'Gemfile*', '_config*', 'bower.json', 'feed.xml', 'gulpfile.js', 'package.json', 'rakefile']
   media: "images/"
