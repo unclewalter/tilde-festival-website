@@ -13,3 +13,5 @@ exclude: ['bower_components', 'node_modules', 'assets/js/src', 'assets/bower_com
 prose:
   ignore: ['_includes', '_layouts', '_plugins', '_sass', 'assets', '.bowerrc', '.gitignore', 'Gemfile*', '_config*', 'bower.json', 'feed.xml', 'gulpfile.js', 'package.json', 'rakefile']
   media: "images/"
+  siteurl: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com/"
+  relativelinks: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com/links.jsonp"
