@@ -6,6 +6,7 @@ body {
 .page-content {
 	@include outer-container;
 	background-color: #fff;
+	opacity: 0.0;
 	.wrapper {
 		padding: 4em 3em;
 	}
@@ -34,7 +35,7 @@ span.footer-copyright {
 .tilde-benefactors {
 	@include span-columns(4);
 	min-width: 238px;
-	
+
 	ul {
 		li {
 			list-style-type: none;
@@ -46,4 +47,3 @@ span.footer-copyright {
 		}
 	}
 }
-

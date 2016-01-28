@@ -29,7 +29,5 @@ $(window).load(function() {
     $(this).fadeTo('slow', 1);
   });
 
-  // $.featherlight.defaults = {
-  //   resetCss: true
-  // }
+  $('.page-content').fadeTo('slow', 1);
 });
