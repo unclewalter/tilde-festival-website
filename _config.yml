@@ -1,9 +1,9 @@
 # Site settings
 title: Tilde New Music and Sound Art
-email: kevan@kevanatkins.com
+email: info@tilde.net.au
 description: "Tilde New Music and Sound Art launched at the beginning of 2014, offering a platform and communal space for new and experimental music practice."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tilde.net.au" # the base hostname & protocol for your site
+url: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -13,5 +13,5 @@ exclude: ['bower_components', 'node_modules', 'assets/js/src', 'assets/bower_com
 prose:
   ignore: ['_includes', '_layouts', '_plugins', '_sass', 'assets', '.bowerrc', '.gitignore', 'Gemfile*', '_config*', 'bower.json', 'feed.xml', 'gulpfile.js', 'package.json', 'rakefile', 'links.jsonp']
   media: "images/"
-  siteurl: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com/"
+  siteurl: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com"
   relativelinks: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com/links.jsonp"
