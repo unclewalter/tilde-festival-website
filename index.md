@@ -1,7 +1,11 @@
 ---
 layout: home
 title: Home
----	
+---
+
+## [PROGRAM SUNDAY 24TH JAN](http://www.tilde.net.au/wp-content/uploads/2014/07/Sunday-program-notes.pdf)
+
+## [BUY TICKETS HERE](http://www.trybooking.com/Booking/BookingEventList.aspx?eid=171797)
 
 Tilde New Music and Sound Art launched at the beginning of 2014, offering a platform and communal space for new and experimental music practice. This includes modern notated music, free improvisation, sound art, and computer music. We offer a supportive and open space for practitioners in these fields to explore new works, to test out ideas, and to examine how new music branches out into, and indeed is intrinsically linked with, other disciplines such as the visual arts, dance, and theatre.
 
