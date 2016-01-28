@@ -21,28 +21,28 @@ section.image_gallery {
   }
 
   // Bodging up a fluid grid
-  @media (max-width: 970px) {
+  @media (max-width: 1110px) {
     div.crop {
       width: 18%;
       height: auto;
     }
   }
 
-  @media (max-width: 840px) {
+  @media (max-width: 870px) {
     div.crop {
       width: 22.5%;
       height: auto;
     }
   }
 
-  @media (max-width: 650px) {
+  @media (max-width: 740px) {
     div.crop {
       width: 30%;
       height: auto;
     }
   }
 
-  @media (max-width: 550px) {
+  @media (max-width: 540px) {
     div.crop {
       max-width: 150px;
       max-height: 150px;
