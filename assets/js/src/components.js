@@ -28,4 +28,8 @@ $(window).load(function() {
     // Fade in image once its aspect ratio is fixed
     $(this).fadeTo('slow', 1);
   });
+
+  // $.featherlight.defaults = {
+  //   resetCss: true
+  // }
 });

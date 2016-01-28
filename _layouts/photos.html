@@ -8,7 +8,7 @@ layout: default
 {% loop_directory directory:images/gallery iterator:image filter:*.jpg sort:descending %}
   <div class="crop">
    {% capture imageurl %}images/gallery/{{image}}.jpg{% endcapture %}
-   <a href="../{{imageurl}}">
+   <a href="#" data-featherlight="{% thumbnail imageurl 900x700> %}">
      {% thumbnail imageurl 170x170^ %}
    </a>
  </div>
