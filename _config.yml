@@ -11,5 +11,4 @@ markdown: kramdown
 exclude: ['bower_components', 'node_modules', 'assets/js/src', 'assets/bower_components', 'gulpfile.js', 'package.json', 'bower.json', 'Gemfile', 'Gemfile.lock', 'bower.json', 'rakefile', '.*']
 
 prose:
-  rooturl: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com/"
   ignore: ['_includes', '_layouts', '_plugins', '_sass', '.bowerrc', '.gitignore', 'Gemfile*', '_config*', 'bower.json', 'feed.xml', 'gulpfile.js', 'package.json', 'rakefile']
