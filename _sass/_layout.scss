@@ -27,6 +27,11 @@ span.footer-copyright {
 	font-family: $sans-serif;
 }
 
+.frontpage-slideshow img {
+	width: 1200px;
+	height: auto;
+}
+
 .festival-poster {
 	@include span-columns(8);
 	text-align: center;
@@ -48,7 +53,11 @@ span.footer-copyright {
 	}
 }
 
-.frontpage-slideshow img {
-	width: 1200px;
-	height: auto;
+@media (max-width: 780px) {
+	.festival-poster {
+		@include fill-parent;
+	}
+	.tilde-benefactors {
+		@include fill-parent
+	}
 }
