@@ -9,6 +9,11 @@ html, body {
  height: 100%;
 }
 
+.footer-social img {
+	width: 1.6em;
+	height: 1.6em;
+}
+
 .wrapper-for-content-outside-of-footer:after {
   content: "";
   display: block;
@@ -47,13 +52,13 @@ html, body {
 
   .footer-logo img {
     height: 1.6em;
-  } 
+  }
 
   ul {
     line-height: 1.5em;
     margin: 0 0 1em 0;
     padding: 0;
-    
+
     @include media($large-screen) {
       float: left;
       line-height: 1.8em;

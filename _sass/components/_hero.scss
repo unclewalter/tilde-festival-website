@@ -1,8 +1,8 @@
-.hero {  
+.hero {
   $base-border-radius: 3px !default;
   $action-color: #477DCA !default;
   $large-screen: em(860) !default;
-  $hero-background-top: #7F99BE; 
+  $hero-background-top: #7F99BE;
   $hero-background-bottom: #20392B;
   $hero-color: white;
   $gradient-angle: 10deg;
@@ -13,7 +13,7 @@
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 3em; 
+  padding-bottom: 3em;
 
   .hero-inner {
     @include outer-container;
@@ -22,9 +22,14 @@
     // padding: 1.5em;
     text-align: center;
 
+    img {
+      width: 1018px;
+      height: auto;
+    }
+
     .hero-copy {
       text-align: center;
-      
+
       h1 {
         color: $hero-color;
         font-size: 1.6em;
@@ -38,7 +43,7 @@
       p {
         color: $hero-color;
         line-height: 1.4em;
-        margin: 0 auto 3em auto; 
+        margin: 0 auto 3em auto;
 
         @include media($large-screen) {
           font-size: 1.1em;
