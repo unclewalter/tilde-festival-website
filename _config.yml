@@ -5,6 +5,12 @@ description: "Tilde New Music and Sound Art launched at the beginning of 2014, o
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com" # the base hostname & protocol for your site
 
+squareLogo: assets/img/tilde-logo.jpg
+
+# Podcast settings
+podcastTitle: Tilde
+
+
 # Build settings
 markdown: kramdown
 sass:
@@ -12,8 +18,64 @@ sass:
 
 exclude: ['bower_components', 'node_modules', 'assets/js/src', 'assets/bower_components', 'gulpfile.js', 'package.json', 'bower.json', 'Gemfile', 'Gemfile.lock', 'bower.json', 'rakefile', '.*']
 
+collections:
+  podcast:
+    output: false
+
 prose:
   ignore: ['_includes', '_layouts', '_plugins', '_sass', 'assets', '.bowerrc', '.gitignore', 'Gemfile*', '_config*', 'bower.json', 'feed.xml', 'gulpfile.js', 'package.json', 'rakefile', 'links.jsonp']
   media: "images/"
   siteurl: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com"
   relativelinks: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com/links.jsonp"
+  metadata:
+    _podcast:
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "title"
+        field:
+          element: "text"
+          value: ""
+          placeholder: "Episode Title"
+      - name: "subtitle"
+        field:
+          element: "text"
+          value: ""
+          placeholder: "Episode Subtitle"
+      - name: "author"
+        field:
+          element: ""
+          value: ""
+      - name: "keywords"
+        field:
+          element: ""
+          value: ""
+      - name: "image"
+        field:
+          element: ""
+          value: ""
+      - name: "guid"
+        field:
+          element: ""
+          value: ""
+      - name: "pubDate"
+        field:
+          element: ""
+          value: ""
+      - name: "enclosureUrl"
+        field:
+          element: ""
+          value: ""
+      - name: "enclosureLength"
+        field:
+          element: ""
+          value: ""
+      - name: "enclosureType"
+        field:
+          element: ""
+          value: ""
+      - name: "duration"
+        field:
+          element: ""
+          value: ""

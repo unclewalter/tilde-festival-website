@@ -1,0 +1,49 @@
+---
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+  <channel>
+    <title>{{ site.podcastTitle }}</title>
+    <link>{{ site.podcastSite }}</link>
+    <language>en-us</language>
+    <copyright>Copyright &#xA9; {{ 'now' | date: "%Y" }}  Tilde New Music and Sound Art</copyright>
+    <itunes:subtitle>{{ site.podcastSubtitle }}</itunes:subtitle>
+    <itunes:author>{{ site.podcastAuthor }}</itunes:author>
+    <itunes:summary>{{ site.podcastDescription }}</itunes:summary>
+    <description>{{ site.podcastDescription }}</description>
+
+    <itunes:owner>
+      <itunes:name>{{ site.podcastOwner }}</itunes:name>
+      <itunes:email>{{ site.podcastEmail }}</itunes:email>
+    </itunes:owner>``
+
+    <itunes:image href="{{ site.squareLogo }}" />
+
+    <itunes:category text="{{ site.podcastCategory }}">
+      <itunes:category text="{{ site.podcastSubCategory }}"/>
+    </itunes:category>
+
+    <itunes:explicit>no</itunes:explicit>
+    {% for ep in site.podcast %}
+    <item>
+      <title>{{ site.podcastTitle }} Episode {{ ep.guid }}</title>
+      <itunes:subtitle>{{ ep.subtitle }}</itunes:subtitle>
+      <itunes:author>{{ ep.author }}</itunes:author>
+      <itunes:summary>{{ ep.content | xml_escape }}</itunes:summary>
+      <itunes:image href="{{ ep.image }}" />
+
+      <enclosure url="{{ ep.enclosureUrl }}" length="{{ ep.enclosureLength }}" type="{{ ep.enclosureType }}" />
+
+      <guid>{{ ep.guid }}</guid>
+
+      <pubDate>{{ ep.pubDate }}</pubDate>
+
+      <itunes:duration>{{ ep.duration }}</itunes:duration>
+
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
