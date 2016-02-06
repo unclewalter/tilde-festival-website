@@ -3,7 +3,7 @@ title: Tilde New Music and Sound Art
 email: info@tilde.net.au
 description: "Tilde New Music and Sound Art launched at the beginning of 2014, offering a platform and communal space for new and experimental music practice."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com" # the base hostname & protocol for your site
+url: "http://tilde.net.au.s3-website-ap-southeast-2.amazonaws.com" # the base hostname & protocol for your site
 
 squareLogo: assets/img/tilde-logo.jpg
 
@@ -57,8 +57,8 @@ prose:
     - links.jsonp
     - podcast.xml
   media: "images/"
-  siteurl: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com"
-  relativelinks: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com/links.jsonp"
+  siteurl: "http://tilde.net.au.s3-website-ap-southeast-2.amazonaws.com"
+  relativelinks: "http://tilde.net.au.s3-website-ap-southeast-2.amazonaws.com/links.jsonp"
   metadata:
     _podcast:
       - name: "date"
