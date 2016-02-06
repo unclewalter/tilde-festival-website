@@ -53,31 +53,33 @@ prose:
         field:
           element: "text"
           value: CURRENT_DATETIME
+          label: "Post date"
       - name: "title"
         field:
           element: "text"
           value: ""
-          placeholder: "Episode Title"
+          label: "Episode Title"
       - name: "subtitle"
         field:
           element: "text"
           value: ""
-          placeholder: "Episode Subtitle"
+          label: "Episode Subtitle"
       - name: "keywords"
         field:
           element: "text"
           value: ""
-          placeholder: "Keywords"
+          label: "Keywords"
       - name: "image"
         field:
           element: "text"
           value: ""
-          placeholder: "Image URL here"
+          label: "Image URL"
+          placeholder: "http://podcast.tilde.net.au/<guid>/<podcast artwork file>"
       - name: "guid"
         field:
           element: "number"
           value: ""
-          placeholder: "Three digit Episode number"
+          label: "Three digit Episode number"
       - name: "pubDate"
         field:
           element: "text"
@@ -87,19 +89,30 @@ prose:
         field:
           element: "text"
           value: ""
-          placeholder: "http://podcast.tilde.net.au/<podcast episode URL>"
+          label: Audio file URL
+          placeholder: "http://podcast.tilde.net.au/<guid>/<podcast audio file>"
       - name: "enclosureLength"
         field:
           element: "number"
           value: ""
-          placeholder: "File length in bytes"
+          label: "File length in bytes"
       - name: "enclosureType"
         field:
-          element: "text"
-          value: "audio/mpeg"
-          placeholder: Enclosure Type
+          element: "select"
+          options:
+            - name: "MP3"
+              value: "audio/mpeg"
+            - name: "M4A"
+              value: "audio/x-m4a"
+            - name: "MP4"
+              value: "video/mp4"
+            - name: "M4V"
+              value: "video/x-m4v"
+            - name: "MOV"
+              value: "video/quicktime"
+          label: Enclosure Type
       - name: "duration"
         field:
           element: "text"
-          value: "4:33"
-          placeholder: "Duration"
+          placeholder: "4:33"
+          label: "Duration"
