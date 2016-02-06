@@ -104,7 +104,7 @@ prose:
       - name: "enclosureLength"
         field:
           element: "number"
-          value: ""
+          value: "0"
           label: "File length in bytes"
       - name: "enclosureType"
         field:
