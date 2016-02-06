@@ -20,7 +20,19 @@ markdown: kramdown
 sass:
   style: compressed
 
-exclude: ['bower_components', 'node_modules', 'assets/js/src', 'assets/bower_components', 'gulpfile.js', 'package.json', 'bower.json', 'Gemfile', 'Gemfile.lock', 'bower.json', 'rakefile', '.*']
+exclude:
+  - bower_components
+  - node_modules
+  - assets/js/src
+  - assets/bower_components
+  - gulpfile.js
+  - package.json
+  - bower.json
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - rakefile
+  - .*
 
 collections:
   podcast:
