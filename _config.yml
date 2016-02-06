@@ -9,7 +9,11 @@ squareLogo: assets/img/tilde-logo.jpg
 
 # Podcast settings
 podcastTitle: Tilde
-
+podcastAuthor: Tilde New Music
+podcastDescription: Description of the podcast
+podcastOwner: Tilde New Music
+podcastEmail: info@tilde.net.au
+podcastCategory: Music
 
 # Build settings
 markdown: kramdown
@@ -23,7 +27,23 @@ collections:
     output: false
 
 prose:
-  ignore: ['_includes', '_layouts', '_plugins', '_sass', 'assets', '.bowerrc', '.gitignore', 'Gemfile*', '_config*', 'bower.json', 'feed.xml', 'gulpfile.js', 'package.json', 'rakefile', 'links.jsonp']
+  ignore:
+    - _includes
+    - _layouts
+    - _plugins
+    - _sass
+    - assets
+    - .bowerrc
+    - .gitignore
+    - Gemfile*
+    - _config*
+    - bower.json
+    - feed.xml
+    - gulpfile.js
+    - package.json
+    - rakefile
+    - links.jsonp
+    - podcast.xml
   media: "images/"
   siteurl: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com"
   relativelinks: "http://tilde-festival-website.s3-website-ap-southeast-2.amazonaws.com/links.jsonp"
@@ -45,37 +65,37 @@ prose:
           placeholder: "Episode Subtitle"
       - name: "author"
         field:
-          element: ""
+          element: "text"
           value: ""
       - name: "keywords"
         field:
-          element: ""
+          element: "text"
           value: ""
       - name: "image"
         field:
-          element: ""
+          element: "text"
           value: ""
       - name: "guid"
         field:
-          element: ""
-          value: ""
+          element: "number"
+          value: "000"
       - name: "pubDate"
         field:
-          element: ""
-          value: ""
+          element: "text"
+          value: CURRENT_DATETIME
       - name: "enclosureUrl"
         field:
-          element: ""
-          value: ""
+          element: "text"
+          value: "http://podcast.tilde.net.au/"
       - name: "enclosureLength"
         field:
-          element: ""
-          value: ""
+          element: "number"
+          value: "0000"
       - name: "enclosureType"
         field:
-          element: ""
-          value: ""
+          element: "text"
+          value: "audio/mpeg"
       - name: "duration"
         field:
-          element: ""
-          value: ""
+          element: "text"
+          value: "4:33"
