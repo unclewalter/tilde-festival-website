@@ -63,39 +63,43 @@ prose:
           element: "text"
           value: ""
           placeholder: "Episode Subtitle"
-      - name: "author"
-        field:
-          element: "text"
-          value: ""
       - name: "keywords"
         field:
           element: "text"
           value: ""
+          placeholder: "Keywords"
       - name: "image"
         field:
           element: "text"
           value: ""
+          placeholder: "Image URL here"
       - name: "guid"
         field:
           element: "number"
-          value: "000"
+          value: ""
+          placeholder: "Three digit Episode number"
       - name: "pubDate"
         field:
           element: "text"
           value: CURRENT_DATETIME
+          label: "pubDate"
       - name: "enclosureUrl"
         field:
           element: "text"
-          value: "http://podcast.tilde.net.au/"
+          value: ""
+          placeholder: "http://podcast.tilde.net.au/<podcast episode URL>"
       - name: "enclosureLength"
         field:
           element: "number"
-          value: "0000"
+          value: ""
+          placeholder: "File length in bytes"
       - name: "enclosureType"
         field:
           element: "text"
           value: "audio/mpeg"
+          placeholder: Enclosure Type
       - name: "duration"
         field:
           element: "text"
           value: "4:33"
+          placeholder: "Duration"

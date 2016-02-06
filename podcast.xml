@@ -29,7 +29,6 @@
     <item>
       <title>{{ site.podcastTitle }} Episode {{ ep.guid }}</title>
       <itunes:subtitle>{{ ep.subtitle }}</itunes:subtitle>
-      <itunes:author>{{ ep.author }}</itunes:author>
       <itunes:summary>{{ ep.content | strip_html }}</itunes:summary>
       <itunes:image href="{{ ep.image }}" />
       <enclosure url="{{ ep.enclosureUrl }}" length="{{ ep.enclosureLength }}" type="{{ ep.enclosureType }}" />
