@@ -57,17 +57,15 @@ prose:
       - name: "title"
         field:
           element: "text"
-          value: ""
           label: "Episode Title"
       - name: "subtitle"
         field:
           element: "text"
-          value: ""
           label: "Episode Subtitle"
       - name: "keywords"
         field:
           element: "text"
-          value: ""
+          placeholder: ""
           label: "Keywords"
       - name: "image"
         field:
@@ -77,8 +75,8 @@ prose:
           placeholder: "http://podcast.tilde.net.au/<guid>/<podcast artwork file>"
       - name: "guid"
         field:
-          element: "number"
-          value: ""
+          element: "text"
+          placeholder: "000"
           label: "Three digit Episode number"
       - name: "pubDate"
         field:

@@ -14,7 +14,7 @@ image: http://podcast.tilde.net.au/001/artwork.jpg
 
 
 # Global Unique ID, can be the episode url, or just a unique number that doesn't change
-guid: 001
+guid: "001"
 
 # The date must be “day-of-week, day month year”. The time must be in 24 hour format (no AM or PM) and must include the time zone offset.
 pubDate: Wed, 02 July 2016 19:00:00 GMT

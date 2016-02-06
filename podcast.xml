@@ -27,7 +27,7 @@
     <itunes:explicit>no</itunes:explicit>
     {% for ep in site.podcast %}
     <item>
-      <title>{{ site.podcastTitle }} Episode {{ ep.guid }}</title>
+      <title>{{ site.podcastTitle }} Episode #{{ ep.guid }} - {{ ep.title }}</title>
       <itunes:subtitle>{{ ep.subtitle }}</itunes:subtitle>
       <itunes:summary>{{ ep.content | strip_html }}</itunes:summary>
       <itunes:image href="{{ ep.image }}" />
