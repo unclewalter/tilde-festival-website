@@ -1,5 +1,5 @@
-// Navigation
 $(document).ready(function() {
+  // Navigation
   var menuToggle = $('#js-mobile-menu').unbind();
   $('#js-navigation-menu').removeClass("show");
 
@@ -11,6 +11,19 @@ $(document).ready(function() {
       }
     });
   });
+
+  // PNG fallback for SVG assets.
+  if (!Modernizr.svg) {
+    var imgs = document.getElementsByTagName('img');
+    var svgExtension = /.*\.svg$/
+    var l = imgs.length;
+    for(var i = 0; i < l; i++) {
+        if(imgs[i].src.match(svgExtension)) {
+            imgs[i].src = imgs[i].src.slice(0, -3) + 'png';
+            console.log(imgs[i].src);
+        }
+    }
+  }
 });
 
 $(window).load(function() {
