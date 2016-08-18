@@ -53,6 +53,11 @@ span.footer-copyright {
 	}
 }
 
+.EOI-form-container {
+	max-width: 600px;
+	margin-left: 1em;
+}
+
 @media (max-width: 780px) {
 	.festival-poster {
 		@include fill-parent;
