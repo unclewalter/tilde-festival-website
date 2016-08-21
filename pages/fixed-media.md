@@ -4,8 +4,6 @@ title: Fixed Media Submission
 permalink: /fixed-media/
 ---
 
-
-
 <div class="form-container">
   <form id="media-upload-form" enctype="multipart/form-data" method="post">
     <div class="row">
