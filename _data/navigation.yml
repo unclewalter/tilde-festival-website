@@ -5,6 +5,10 @@
 - title: "Festival"
   url: "/festival/"
   side: left
+  
+- title: "Academy"
+  url: "/academy/"
+  side: left
 
 - title: "About"
   url: "/about/"
