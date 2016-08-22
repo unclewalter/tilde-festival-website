@@ -60,7 +60,7 @@ prose:
   siteurl: "http://tilde.net.au.s3-website-ap-southeast-2.amazonaws.com"
   relativelinks: "http://tilde.net.au.s3-website-ap-southeast-2.amazonaws.com/links.jsonp"
   metadata:
-    _pages:
+    pages:
       - name: "layout"
         field:
           element: "hidden"
