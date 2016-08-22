@@ -4,14 +4,19 @@ published: true
 title: Academy
 permalink: /academy/
 ---
-![DYSWIH_Tilde2015_39-1018x460.jpg]({{site.baseurl}}/images/slides/DYSWIH_Tilde2015_39-1018x460.jpg)
+![Lizzy Welsh - Photo by Yafei]({{site.baseurl}}/images/slides/DYSWIH_Tilde2015_39-1018x460.jpg)
+
+_Photo by Yafei_
+
+![Melbourne Arts Centre]({{site.baseurl}}/images/arts-centre-logo.svg)
 
 ## An exciting opportunity to learn about the composition and performance of Modern Art music.
 
+
 The Tilde New Music Academy is a week-long series of workshops for performers and composers focussing on contemporary art music included notated music, sound art, computer music, and improvisation.
 
+
 The Tilde New Music Academy aims to:
-<!-- TODO: Insert SVG Arts Centre Logo with appropriate contrasting colour and png fallback -->
 
 *   Expose musicians to modern art music
 *   Expand musical breadth
