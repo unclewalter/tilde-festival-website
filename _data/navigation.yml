@@ -5,7 +5,7 @@
 - title: "Festival"
   url: "/festival/"
   side: left
-  
+
 - title: "Academy"
   url: "/academy/"
   side: left
@@ -14,9 +14,9 @@
   url: "/about/"
   side: left
 
-- title: "Media"
-  url: "/media/"
-  side: left
+# - title: "Media"
+#   url: "/media/"
+#   side: left
 
 - title: "Photos"
   url: "/photos/"
