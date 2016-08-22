@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Calls for 2016 Festival
-class: calls
 permalink: /calls/
-published: true
 ---
 <span style="text-decoration: underline;">Information for applicants:</span>
 
