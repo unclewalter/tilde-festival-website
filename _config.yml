@@ -71,10 +71,12 @@ prose:
           element: "text"
           value: ""
           label: "Title"
+          placeholder: "Page Title"
       - name: "permalink"
         field:
           element: "text"
           value: ""
+          placeholder: "/directory/"
           label: "Permalink"
     _podcast:
       - name: "date"
