@@ -10,7 +10,8 @@ permalink: /academy/
 
 The Tilde New Music Academy is a week-long series of workshops for performers and composers focussing on contemporary art music included notated music, sound art, computer music, and improvisation.
 
-The Tilde New Music Academy aims to:![](https://www.artscentremelbourne.com.au/resources/artscentre/images/ArtCentreMelbourne_logo.png)
+The Tilde New Music Academy aims to:
+<!-- TODO: Insert SVG Arts Centre Logo with appropriate contrasting colour and png fallback -->
 
 *   Expose musicians to modern art music
 *   Expand musical breadth
