@@ -3,7 +3,7 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
 
 #mc_embed_signup form {
   text-align: center;
-  padding: 10px 0;
+  padding: 0;
 }
 
 .mc-field-group {
@@ -32,10 +32,12 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
     vertical-align: top;
   }
   label {
-    display: block;
+    display: inline-block;
     font-size: 16px;
     padding-bottom: 10px;
     font-weight: bold;
+    color: rgba(255, 255, 255, 0.6);
+    margin-right: 0.5em;
   }
   .clear {
     display: inline-block;
@@ -96,26 +98,35 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
     text-align: left;
     padding: 0.5em 0;
   }
-  background: #40526b;
-  /*clear: left;*/
+  // background: #40526b;
+  background: transparent;
   font: 14px Helvetica, Arial, sans-serif;
-  /*width: 100%;*/
+  width: 100%;
+  max-width: 480px;
+  display: inline-block;
 }
 
 /* positions button horizontally in line with input */
 
-@media (max-width: 768px) {
+@media (max-width: 959px) {
   #mc_embed_signup {
+    display: block;
     input.email {
       width: 100%;
       margin-bottom: 5px;
+      display: block;
+    }
+    label {
+      display: block;
     }
     .clear {
       display: block;
       width: 100%;
+      max-width: 350px;
     }
     .button {
       width: 100%;
+      max-width: 350px;
       margin: 0;
     }
   }
