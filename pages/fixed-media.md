@@ -29,4 +29,3 @@ permalink: /fixed-media/
     <button onclick="submit()" id="submit-button" value="Upload">Submit</button>
   </div>
 </div>
-<script type="text/javascript" src="assets/js/submission.js"></script>

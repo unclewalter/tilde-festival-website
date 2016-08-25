@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: academy
 published: true
 title: Academy
 permalink: /academy/
