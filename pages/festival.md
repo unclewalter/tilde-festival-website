@@ -4,6 +4,8 @@ title: Festival
 permalink: /festival/
 published: true
 ---
+[2014](/fest2014)
+
 ![fest_flyer0.4.png]({{site.baseurl}}/images/fest_flyer0.4.png)
 
 The Tilde New Music Festival is an annual celebration of new and experimental music covering notated and improvised music, sound art, and the intersections with other art forms. Held in Melbourne each January, the festival offers a grass-roots atmosphere with food, drink, installations, performances, visual art, discussion, and much more.
