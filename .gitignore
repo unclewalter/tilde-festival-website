@@ -8,4 +8,4 @@ node_modules
 
 *credentials.csv
 
-images/gallery/thumbs/*
+images/*/thumbs/*
