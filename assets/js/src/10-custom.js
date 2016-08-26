@@ -10,15 +10,13 @@ $(document).ready(function() {
     $("#submitEOI").html("Submitting...");
     submissionDetails.cv = {
       type: "",
-      filename: "",
-      body: ""
+      filename: ""
     };
     if (cvFile){
       var fname = $('#cvUpload').val().replace("C:\\fakepath\\", "");
       submissionDetails.cv = {
         type: base64MimeType(cvFile),
-        fname: fname,
-        body: cvFile.split(',')[1]
+        fname: fname
       };
     }
 
