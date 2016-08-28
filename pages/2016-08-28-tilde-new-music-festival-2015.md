@@ -3,7 +3,7 @@ layout: page
 published: true
 title: Tilde New Music Festival 2015
 ---
-Saturday 24th of January
+Saturday 24th January
 Testing Grounds
 Southbank, Melbourne
 
