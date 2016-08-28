@@ -1,0 +1,42 @@
+---
+layout: page
+published: true
+title: Tilde New Music Festival 2016
+permalink: /fest_2016
+---
+### Composure
+
+**Friday 22nd January 2016**
+**The Channel**
+**Arts Centre Melbourne**
+**7PM-9PM**
+
+This is a free event. Numbers are limited, so please book with Arts Centre Melbourne
+Join facilitator Daryl Buckley from Australia’s acclaimed Elision Ensemble and a panel of internationally recognised practitioners related to new music for a discussion centred around virtuosity in new music performance, composition, and collaboration.
+
+An exciting event for musicians, composers, and audiences interested in modern art music and how it branches out and relates to other disciplines.
+
+This event is part of the Tilde New Music Festival for 2016, in partnership with Arts Centre Melbourne. If you are a student or young adult interested in new music performance, please see the Tilde New Music Academy held in January.
+
+ 
+### Saturday 23rd January
+**Testing Grounds**
+**1-23 City Road, Southbank**
+**2PM-11PM**
+
+$30/20 per day
+Program
+Join us for a day of experimental and thought-provoking performances, installations, and inter-disciplinary works by local and interstate artists. Lounge in our listening room with an exhibit of fixed-media works and enjoy the unconventional surrounds of Southbank's Testing Grounds.
+
+ 
+### Sunday 24th January
+**Australian Institute of Music**
+**120 King Street, Melbourne**
+**10AM-6PM**
+
+$30/20 per day
+
+Program
+Join us for an indoor set of performances and projects that require a traditional concert venue, or the intimate deployment of sensors, microcomputers, and other technologies, along with audio-visual works and more installation work.
+
+
