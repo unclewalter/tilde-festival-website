@@ -7,11 +7,8 @@ permalink: ''
 ### Composure
 
 **Friday 22nd January 2016**
-
 **The Channel**
-
 **Arts Centre Melbourne**
-
 **7PM-9PM**
 
 This is a free event. Numbers are limited, so please book with Arts Centre Melbourne
@@ -23,11 +20,8 @@ This event is part of the Tilde New Music Festival for 2016, in partnership with
 
  
 ### Saturday 23rd January
-
 **Testing Grounds**
-
 **1-23 City Road, Southbank**
-
 **2PM-11PM**
 
 $30/20 per day
@@ -36,11 +30,8 @@ Join us for a day of experimental and thought-provoking performances, installati
 
  
 ### Sunday 24th January
-
 **Australian Institute of Music**
-
 **120 King Street, Melbourne**
-
 **10AM-6PM**
 
 $30/20 per day
