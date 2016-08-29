@@ -29,12 +29,12 @@ $(document).ready(function() {
       contentType: 'application/json; charset=UTF-8',
       dataType: 'json',
       success: function(data) {
-        var cvFile = document.getElementById('cvUpload').files[0]
         if (data.errorMessage) {
           alert("Error: "+data.errorMessage);
           $("#submitEOI").html("Submit EOI");
         } else {
-          if (data.cvfilename) {
+          if (data.cvfilename && document.getElementById('cvUpload')) {
+            var cvFile = document.getElementById('cvUpload').files[0]
             uploadFile(cvFile, data.cvfilename, function() {
               $("#submitEOI").html("Submission successful!");
               $("#submitEOI").attr("disabled", true);
