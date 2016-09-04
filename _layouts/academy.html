@@ -12,7 +12,7 @@ layout: default
     <h1>Photos</h1>
   {% loop_directory directory:images/academy iterator:image filter:*.jpg sort:descending %}
     <div class="crop">
-     {% capture imageurl %}images/academy/{{image}}.jpg{% endcapture %}
+     {% capture imageurl %}images/academy/{{image}}{% endcapture %}
      <a href="#" data-featherlight="{% thumbnail imageurl 1366x768> %}">
        {% thumbnail imageurl 170x170^ %}
      </a>

@@ -56,10 +56,10 @@ module Jekyll
 
 
                 # remove filename extension
-                images.each { |pathname| 
-                  context[@attributes['iterator']] = File.basename(pathname, @attributes['filter'].sub('*', ''))
+                images.each { |pathname|
+                  context[@attributes['iterator']] = File.basename(pathname)
                   result << render_all(@nodelist, context)
-                }  
+                }
 
                 # return pathname
                 # images.each_with_index do |item, index|

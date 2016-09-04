@@ -7,7 +7,7 @@ layout: default
 <section class="image_gallery" data-featherlight-gallery data-featherlight-filter="a">
 {% loop_directory directory:images/gallery iterator:image filter:*.jpg sort:descending %}
   <div class="crop">
-   {% capture imageurl %}images/gallery/{{image}}.jpg{% endcapture %}
+   {% capture imageurl %}images/gallery/{{image}}{% endcapture %}
    <a href="#" data-featherlight="{% thumbnail imageurl 1366x768> %}">
      {% thumbnail imageurl 170x170^ %}
    </a>

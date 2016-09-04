@@ -8,7 +8,7 @@
         <section class="frontpage-slideshow">
           <ul class="slides">
             {% loop_directory directory:images/slides iterator:image filter:*.jpg sort:descending %}
-               <li><img src="images/slides/{{ image }}.jpg" /></li>
+               <li><img src="images/slides/{{ image }}" /></li>
             {% endloop_directory %}
           </ul>
         </section>
