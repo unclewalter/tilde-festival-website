@@ -4,7 +4,7 @@ published: true
 title: Academy
 permalink: /academy/
 ---
-![Lizzy Welsh - Photo by Yafei]({{site.baseurl}}/images/slides/DYSWIH_Tilde2015_39-1018x460.jpg)
+![Lizzy Welsh - Photo by Yafei]({{site.baseurl}}/images/slides/004_DYSWIH_Tilde2015_39-1018x460.jpg)
 
 _Photo by Yafei_
 
