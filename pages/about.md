@@ -25,3 +25,7 @@ Alice Bennett is a Melbourne-based flutist and sound artist who works with elect
 ## Vincent Giles
 
 Vincent Giles spends his time as a sound artist and composer. His work, whether for the concert hall or the outdoors, a gallery space or a lounge room, for instruments or electronics or both, pays close attention to the influence of space and site on the presentation and reception of the work. Vincent has a keen interest in physics and evolutionary biology, which is a major driving force in his creative work and has lead to doctoral research at the Victorian College of the Arts, University of Melbourne, examining the link between memetics and microsound in sound art.
+
+## Kevan Atkins
+
+Kevan Atkins has been passionate about music, technology and and all things audio since he first began working as an audio engineer at 14 years of age. He is involved in the Melbourne music scene as both an audio engineer, sound recordist and composer working primarily in theatre before pursuing his current focus in concert music and sound art. Kevan’s creative practice is a dynamic exploration of the intersection between theatre, physical movement, sound and technology. He is the Production Coordinator of the Tilde New Music Festival.
