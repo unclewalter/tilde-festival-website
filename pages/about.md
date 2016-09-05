@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Tilde New Music and Sound Art launched at the beginning of 2014, offering a platform and communal space for new and experimental music practice. This includes modern notated music, free improvisation, sound art, and computer music. We offer a supportive and open space for practitioners in these fields to explore new works, to test out ideas, and to examine how new music branches out into, and indeed is intrinsically linked with, other disciplines such as the visual arts, dance, and theatre. 
+Tilde New Music and Sound Art launched at the beginning of 2014, offering a platform and communal space for new and experimental music practice. This includes modern notated music, free improvisation, sound art, and computer music. We offer a supportive and open space for practitioners in these fields to explore new works, to test out ideas, and to examine how new music branches out into, and indeed is intrinsically linked with, other disciplines such as the visual arts, dance, and theatre.
 
 What is ‘new music’? New music is a broad term that describes art music of the late 20th and 21st centuries. It is the extension of the classical music tradition; the experimental, exploratory, avant-garde music and sound art of our contemporaries across the globe. Tilde promotes new and experimental music of the last 50 years as well as free improvisation, sound art, and computer music.
 
@@ -20,7 +20,7 @@ The Tilde New Music Festival is held in Melbourne each January, along with the T
 
 ## Alice Bennett
 
-Alice Bennett is a Melbourne-based flutist and sound artist who works with electronically manipulated flute, found sounds, field recordings, and improvisation. She performs both written and improvised music and is an Artistic Director of the Tilde New Music Festival. 
+Alice Bennett is a Melbourne-based flutist and sound artist who works with electronically manipulated flute, found sounds, field recordings, and improvisation. She performs both written and improvised music and is an Artistic Director of the Tilde New Music Festival.
 
 ## Vincent Giles
 
@@ -28,4 +28,4 @@ Vincent Giles spends his time as a sound artist and composer. His work, whether 
 
 ## Kevan Atkins
 
-Kevan Atkins has been passionate about music, technology and and all things audio since he first began working as an audio engineer at 14 years of age. He is involved in the Melbourne music scene as both an audio engineer, sound recordist and composer working primarily in theatre before pursuing his current focus in concert music and sound art. Kevan’s creative practice is a dynamic exploration of the intersection between theatre, physical movement, sound and technology. He is the Production Coordinator of the Tilde New Music Festival.
+Kevan Atkins has been passionate about music, technology and all things audio since he first began working as an audio engineer at 14 years of age. He is involved in the Melbourne music scene as an audio engineer, sound recordist and composer working primarily in theatre before pursuing his current focus in concert music and sound art. Kevan’s creative practice is a dynamic exploration of the intersection between theatre, physical movement, sound and technology. He is the Production Coordinator of the Tilde New Music Festival.
