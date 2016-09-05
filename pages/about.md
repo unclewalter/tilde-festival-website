@@ -2,11 +2,20 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Tilde is a multi-platform project run by flutist Alice Bennett, and composer and sound artist Vincent Giles. Tilde aims to promote Australian and international sound art and new music through an annual festival, academy, and concert series.
+Tilde New Music and Sound Art launched at the beginning of 2014, offering a platform and communal space for new and experimental music practice. This includes modern notated music, free improvisation, sound art, and computer music. We offer a supportive and open space for practitioners in these fields to explore new works, to test out ideas, and to examine how new music branches out into, and indeed is intrinsically linked with, other disciplines such as the visual arts, dance, and theatre. 
 
-![alt text](/images/IMG_4318.jpg "Logo Title Text 1")
+What is ‘new music’? New music is a broad term that describes art music of the late 20th and 21st centuries. It is the extension of the classical music tradition; the experimental, exploratory, avant-garde music and sound art of our contemporaries across the globe. Tilde promotes new and experimental music of the last 50 years as well as free improvisation, sound art, and computer music.
+
+Our broad aim is to remove the performance barriers associated with challenging new musical works through the use of open space, taking these adventurous works out of the concert hall and by encouraging the full use of the space by the artists, to engage the audience sonically, visually, and sometimes physically. Our musical focus is on works created in the last 50 years within the Australasian geographic region that push performer and audience in new and interesting ways, and to facilitate new networked connections and spontaneous collaborations between artists and audiences alike.
+
+The Tilde New Music Festival is held in Melbourne each January, along with the Tilde New Music Academy - a week-long intensive course exploring the performance and composition of new and experimental music.
+
+
+### The Team
+
 
 
 ## Alice Bennett
