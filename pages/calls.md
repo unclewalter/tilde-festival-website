@@ -7,7 +7,7 @@ published: true
 <span style="text-decoration: underline;">Information for applicants:</span>
 
 
-##Calls for Expressions of Interest in the 2017 festival are now open##
+##Calls for Expressions of Interest in the 2017 festival are now open and will close on 23rd October 2016 at 11:59PM##
 Please read the information below before submitting an application, and [contact us](http://www.tilde.net.au/contact/) with any questions.
 
 *   **Calls are open for the following**:
