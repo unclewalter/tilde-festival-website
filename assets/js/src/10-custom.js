@@ -6,7 +6,7 @@ $(document).ready(function() {
     });
   });
   $("#submitEOI").click(function() {
-    var submissionDetails = $("form").serializeObject();
+    var submissionDetails = $(".EOI-form").serializeObject();
     $("#submitEOI").html("Submitting...");
     submissionDetails.cv = {
       type: "",
