@@ -8,25 +8,25 @@ published: true
   <form class="EOI-form" action="" method="post">
     <input type="hidden" name="submissionType" value="eoi-collab">
     <label for="artistName">Name *</label>
-    <input type="text" name="artistName" value="" required="">
+    <input type="text" name="artistName" value="" data-validate="required">
 
     <label for="email">Email *</label>
     <p>This information will be used for correspondance with the Tilde team and will not be disseminated to others.</p>
-    <input type="email" name="email" value="" required="">
+    <input type="email" name="email" value="" data-validate="required,email">
 
     <label for="confirm_email">Confirm email *</label>
-    <input type="email" name="confirm_email" value="" required="">
+    <input type="email" name="confirm_email" value="" data-validate="required,email">
 
     <label for="phone">Phone number *</label>
     <p>This information will be used for correspondance with the Tilde team and will not be disseminated to others.</p>
-    <input type="tel" name="phone" value="" required="">
+    <input type="tel" name="phone" value="" data-validate="required">
 
     <label for="discipline">Discipline *</label>
-    <input type="text" name="discipline" value="" required="">
+    <input type="text" name="discipline" value="" data-validate="required">
 
     <label for="bio">Artist Bio (max 250 words) *</label>
     <p>Give us and other collaborators an idea of who you are and what you do.</p>
-    <textarea name="bio" rows="8" cols="40" required=""></textarea>
+    <textarea name="bio" rows="8" cols="40" data-validate="required"></textarea>
 
     <label for="comments">Comment box</label>
     <p>Comments/other information</p>
