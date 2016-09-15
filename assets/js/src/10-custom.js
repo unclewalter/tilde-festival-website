@@ -19,7 +19,6 @@ $(document).ready(function() {
         fname: fname
       };
     }
-s
     $.ajax({
       data: JSON.stringify(submissionDetails),
       url: 'https://u7zjgs87ed.execute-api.eu-west-1.amazonaws.com/dev/eoi/submit',
