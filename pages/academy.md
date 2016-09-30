@@ -32,7 +32,7 @@ New music is a broad term that describes art music of the late 20<sup>th</sup> a
 
 Choose one of two streams:
 
-### Instrumental performance (woodwind, brass, piano, strings, percussion, and voice)
+### Instrumental performance (woodwind, brass, strings)
 
 Performers learn new techniques, explore the music of today’s composers, learn to improvise in a contemporary style, perform with computers and electronics, and see just how far they can push their instruments and their ears. They work with tutors to prepare solo and ensemble works and improvisations for performance at Tilde New Music Festival.
 
@@ -60,4 +60,4 @@ We will be running a special computer music project during the 2017 Academy with
 
 Applications open in September. Please check back for more information closer to that time.
 
-The next Academy will be held between **Saturday 14th **and **Friday 20th January 2017** in Melbourne, with performances on Saturday 21st and Sunday 22nd January as part of the Tilde New Music Festival.
+The next Academy will be held between **Sunday 15th **and **Saturday 21st January 2017** in Melbourne, with performances on Saturday 21st and Sunday 22nd January as part of the Tilde New Music Festival.
