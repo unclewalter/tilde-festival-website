@@ -10,7 +10,7 @@ The Tilde New Music Festival is an annual celebration of new and experimental mu
 
 Calls for projects and performances at the festival are now [open](/calls).
 
-The 2017 festival will be held on Saturday 21st and Sunday 22nd January in Melbourne.
+The 2017 festival and academy will be held from Sunday the 15th of January to Saturday the 21st of January in Melbourne.
 
 ## Want to join the Tilde team?
 
