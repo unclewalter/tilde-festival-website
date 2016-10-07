@@ -58,6 +58,6 @@ We will be running a special computer music project during the 2017 Academy with
 
 ### Timeline
 
-Applications open in September. Please check back for more information closer to that time.
+Applications open in October. More information coming soon!
 
 The next Academy will be held between **Sunday 15th **and **Saturday 21st January 2017** in Melbourne, with performances on Saturday 21st and Sunday 22nd January as part of the Tilde New Music Festival.
