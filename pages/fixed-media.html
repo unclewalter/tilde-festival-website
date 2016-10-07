@@ -44,16 +44,15 @@ permalink: /fixed-media/
     <label for="short_description">Work description *</label>
     <p>Program note. This will be used for promotion as well as the festival program.</p>
     <textarea name="short_description" rows="8" cols="40" data-validate="required"></textarea>
+    <label for="cv">Sound File</label>
+    <input type="file" name="cv" id="cvUpload" value="" data-validate="required">
 
+    <div class="progress-bar-indication">
+      <span id="progress-bar" class="meter" style="width: 0%">
+        <p>&nbsp;</p>
+      </span>
+    </div>
   </form>
-  <label for="cv">Sound File</label>
-  <input type="file" name="cv" id="cvUpload" value="" data-validate="required">
-
-  <div class="progress-bar-indication">
-    <span id="progress-bar" class="meter" style="width: 0%">
-      <p>&nbsp;</p>
-    </span>
-  </div>
   <br>
   <p>* Denotes a required field.</p>
   <button type="submit" name="submit" id="submitEOI">Submit Work</button><br />

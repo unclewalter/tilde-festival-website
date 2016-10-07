@@ -68,17 +68,16 @@ published: true
     <label for="comments">Comment box</label>
     <p>Comments/other information</p>
     <textarea name="comments" rows="8" cols="40"></textarea>
+    <label for="cv">Brief CV</label>
+    <p>List major career achievements and developments. If you choose to upload your CV as a PDF please remove all identifying information (name, phone number, email address, etc.) to ensure your anonimity to the panel of assessors. </p>
+    <input type="file" name="cv" id="cvUpload" value="">
 
+    <div class="progress-bar-indication">
+      <span id="progress-bar" class="meter" style="width: 0%">
+        <p>&nbsp;</p>
+      </span>
+    </div>
   </form>
-  <label for="cv">Brief CV</label>
-  <p>List major career achievements and developments. If you choose to upload your CV as a PDF please remove all identifying information (name, phone number, email address, etc.) to ensure your anonimity to the panel of assessors. </p>
-  <input type="file" name="cv" id="cvUpload" value="">
-
-  <div class="progress-bar-indication">
-    <span id="progress-bar" class="meter" style="width: 0%">
-      <p>&nbsp;</p>
-    </span>
-  </div>
   <br>
   <p>* Denotes a required field.</p>
   <button type="submit" name="submit" id="submitEOI">Submit EOI</button><br />
