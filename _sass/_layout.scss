@@ -51,6 +51,9 @@ section.frontpage-slideshow {
 .EOI-form-container {
 	max-width: 600px;
 	margin-left: 1em;
+	.stream_composition, .stream_performance, .stream_both {
+		display: none;
+	}
 }
 
 @media (max-width: 780px) {

@@ -1,0 +1,109 @@
+---
+layout: page
+title: Expression of Interest - Academy
+permalink: /eoi-academy/
+published: true
+---
+
+Please provide between 1 and 3 pieces you would like to work on during the academy: title, composer, year, instrumentation.
+
+Would you like to be considered for special projects within the academy? (Composition only)
+Please provide a brief CV outlining recent works/premieres/installations/etc. and relevant education and experience. (Composition only)
+Please provide links to two or three recent works that exemplify your compositional interests. (Composition only)
+
+<div class="EOI-form-container">
+  <form class="EOI-form" action="" method="post">
+    <input type="hidden" name="submissionType" value="eoi-academy">
+    <label for="artistName">Name *</label>
+    <input type="text" name="artistName" value="" data-validate="required">
+
+    <label for="email">Email *</label>
+    <p>This information will be used for correspondance with the Tilde team and will not be disseminated to others.</p>
+    <input type="email" name="email" value="" data-validate="required,email">
+
+    <label for="confirm_email">Confirm email *</label>
+    <input type="email" name="confirm_email" value="" data-validate="required,email">
+
+    <label for="phone">Phone number *</label>
+    <p>This information will be used for correspondance with the Tilde team and will not be disseminated to others.</p>
+    <input type="tel" name="phone" value="" data-validate="required">
+
+
+    <label for="stream">Which stream are you interested in? *</label>
+    <select name="stream" id="academyStreamSelector" data-validate="required">
+      <option value="">Please Select</option>
+      <option value="composition">Composition</option>
+      <option value="performance">Performance</option>
+      <option value="spectator">Spectator</option>
+    </select>
+
+    <h4 class="stream_performance">Requirements for performance stream</h3>
+    <p class="stream_performance">
+      AMEB Grade 7 (or equivalent) or above in any woodwind, brass or string instrument. Applicants are required to submit a CV and list of relevant solo and/or ensemble repertoire that they have previously performed, as well as up to 3 pieces that they wish to study at the Academy.
+    </p>
+    <p class="stream_performance">
+      No age restrictions.
+    </p>
+
+    <h4 class="stream_composition">Requirements for composition stream</h3>
+    <p class="stream_composition">
+      Applications are assessed by CV and composition portfolio on a case-by-case basis. Participants must have some experience in the composition of new and/or experimental (art) music. This may include notated and/or electronic music.
+    </p>
+    <p class="stream_composition">
+      No age restrictions.
+    </p>
+
+    <label for="interest">Please tell us why you are interested in Tilde New Music Academy 2017. *</label>
+    <input type="text" name="interest" value="" data-validate="required">
+
+    <label for="instrument" class="stream_performance">What instrument do you play?</label>
+    <input type="text" name="instrument" value="" class="stream_performance">
+
+
+    <label for="repertoire" class="stream_performance">Repertoire</label>
+    <p class="stream_performance">
+      List of relevant solo and/or ensemble repertoire previously performed.
+    </p>
+    <textarea name="repertoire" rows="8" cols="40" class="stream_performance"></textarea>
+
+    <label for="links" class="stream_composition">Links</label>
+    <p class="stream_composition">Please provide links to two or three recent works that exemplify your compositional interests.</p>
+    <textarea name="links" rows="8" cols="40" class="stream_composition"></textarea>
+
+    <label for="specialprojects" class="stream_composition">Would you like to be considered for special projects within the academy?</label>
+
+    <p class="stream_composition">
+      Composition stream. Computer music, composing for installation, etc. all TBA.
+    </p>
+    <select name="specialprojects" class="stream_composition" data-validate="required">
+      <option value="">Please select</option>
+      <option value="yes">Yes</option>
+      <option value="no">No</option>
+    </select>
+
+    <br>
+
+    <label for="cv" class="stream_both">Brief CV</label>
+    <p class="stream_performance">
+      Please provide a brief CV outlining major musical achievements and any relevant experience.
+    </p>
+    <p class="stream_performance">
+      <i>Please note: we require AMEB Grade 7 or above (or equivalent). Please include this information here.</i>
+    </p>
+    <p class="stream_composition">
+      Please provide links to two or three recent works that exemplify your compositional interests.
+    </p>
+
+    <input type="file" name="cv" id="cvUpload" value="" class="stream_both">
+
+    <div class="progress-bar-indication">
+      <span id="progress-bar" class="meter" style="width: 0%">
+        <p>&nbsp;</p>
+      </span>
+    </div>
+  </form>
+  <br>
+  <p>* Denotes a required field.</p>
+  <button type="submit" name="submit" id="submitEOI">Submit EOI</button><br />
+  <p>Please be patient when submitting, and do not refresh the page.</p>
+</div>

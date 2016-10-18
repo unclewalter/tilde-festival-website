@@ -53,4 +53,39 @@ $(document).ready(function() {
       });
     });
   });
+  // Academy Form
+  $("#academyStreamSelector").change(function() {
+    switch (this.value) {
+      case "composition":
+        $(".stream_both").css("display", "block");
+        // $(".stream_both").attr("data-validate","required");
+
+        $(".stream_composition").css("display", "block");
+        // $(".stream_composition").attr("data-validate","required");
+
+        $(".stream_performance").css("display", "none");
+        // $(".stream_performance").removeAttr("data-validate");
+        break;
+      case "performance":
+        $(".stream_both").css("display", "block");
+        // $(".stream_both").attr("data-validate","required");
+
+        $(".stream_performance").css("display", "block");
+        // $(".stream_performance").attr("data-validate","required");
+
+        $(".stream_composition").css("display", "none");
+        // $(".stream_composition").removeAttr("data-validate");
+        break;
+      default:
+        $(".stream_both").css("display", "none");
+        // $(".stream_both").removeAttr("data-validate");
+
+        $(".stream_performance").css("display", "none");
+        // $(".stream_performance").removeAttr("data-validate");
+
+        $(".stream_composition").css("display", "none");
+        // $(".stream_composition").removeAttr("data-validate");
+    }
+  });
+
 });
