@@ -34,7 +34,7 @@ Choose one of two streams:
 
 ### Instrumental performance (woodwind, brass, strings)
 
-Performers learn new techniques, explore the music of today’s composers, learn to improvise in a contemporary style, perform with computers and electronics, and see just how far they can push their instruments and their ears. They work with tutors to prepare solo and ensemble works and improvisations for performance at Tilde New Music Festival.
+Performers learn new techniques, explore the music of today’s composers, learn to improvise in a contemporary style, perform with computers and electronics, and see just how far they can push their instruments and their ears. They work with tutors to prepare solo and ensemble works and improvisations for performance at Tilde New Music Festival. Tutor announcements coming soon.
 
 #### Requirements for performance stream
 
@@ -44,7 +44,7 @@ No age restrictions.
 
 ### Composition
 
-Composers are given the opportunity to discuss their artistic practice amongst peers and with feedback from tutors in a supportive masterclass environment. These workshops will delve into the theoretic, philosophic, cultural, and critical means of engaging with a composer's work. Additionally, composers accepted into the composition stream may be considered for special projects (such as computer music or installation) within the program. Details on special projects to be announced.
+Composers are given the opportunity to discuss their artistic practice amongst peers and with feedback from tutors in a supportive masterclass environment. These workshops will delve into the theoretic, philosophic, cultural, and critical means of engaging with a composer's work. Additionally, composers accepted into the composition stream may be considered for special projects (such as computer music or installation) within the program. Details on special projects to be announced. Tutor announcements coming soon.
 
 #### Requirements for composition stream
 
