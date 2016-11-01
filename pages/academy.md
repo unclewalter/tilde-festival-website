@@ -62,4 +62,4 @@ Applications open in November and close at the beginning of January. Notificatio
 
 [Click here to apply for Tilde New Music Academy 2017](/app-academy/)
 
-The next Academy will be held between **Sunday 15th **and **Saturday 21st January 2017** in Melbourne, with performances on Saturday 21st and Sunday 22nd January as part of the Tilde New Music Festival.
+The next Academy will be held between **Sunday 15th **and **Saturday 21st January 2017** in Melbourne.
