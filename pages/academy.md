@@ -4,11 +4,9 @@ published: true
 title: Academy
 permalink: /academy/
 ---
-![Carmen Chan - Photo by Yafei]({{site.baseurl}}/images/TNMA_2017.jpg)
+![Carmen Chan - Photo by Yafei]({{site.baseurl}}/images/TNMA_2017.jpg) ![Melbourne Arts Centre]({{site.baseurl}}/images/arts-centre-logo.svg)
 
 _Photo by Yafei_
-
-![Melbourne Arts Centre]({{site.baseurl}}/images/arts-centre-logo.svg)
 
 [Click here to apply for Tilde New Music Academy 2017](/app-academy/)
 
