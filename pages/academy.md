@@ -8,9 +8,11 @@ permalink: /academy/
 
 _Photo by Yafei_
 
-## Tilde New Music Academy 2017
-## 15-21 January 
-## The Channel, Arts Centre Melbourne
+### Tilde New Music Academy 2017
+
+#### 15-21 January 
+
+#### The Channel, Arts Centre Melbourne
 
 [Click here to apply for Tilde New Music Academy 2017](/app-academy/)
 
@@ -58,7 +60,7 @@ No age restrictions.
 
 We will be running a special project during the 2017 Academy with an outcome in the Festival. Composition students may apply for this project after being accepted into the Academy. Details to be announced.
 
-## Observers
+### Observers
 
 If you are interested in attending the Academy but not participating, you may enrol as an observer. Oberservers do not need to submit an application and can buy a ticket directly here: [Arts Centre Melbourne](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy)
 
@@ -73,6 +75,7 @@ The next Academy will be held between **Sunday 15th **and **Saturday 21st Janua
 ### Cost
 
 Participants: $250 full/$200 concession (including student)
+
 Observers: $150 full/$100 concession
 
 Participants will be invited to purchase a ticket from the Arts Centre Melbourne website once their application is accepted. Observers do not need to submit an application.
