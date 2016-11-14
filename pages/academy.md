@@ -64,6 +64,10 @@ We will be running a special project during the 2017 Academy with an outcome in 
 
 If you are interested in attending the Academy but not participating, you may enrol as an observer. Oberservers do not need to submit an application and can buy a ticket directly here: [Arts Centre Melbourne](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy)
 
+### Tutors
+
+Tutors will be announced in the coming weeks!
+
 ### Timeline
 
 Applications open in November and close on **31st December**. Notification of acceptance will be rolling as applications are assessed. If you are accepted into the Academy, you will be invited to purchase a ticket for participation. 
