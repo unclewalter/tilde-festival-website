@@ -29,7 +29,7 @@ header.navigation {
     @include clearfix;
     @include outer-container;
     position: relative;
-    z-index: 9999;
+    z-index: 1000;
   }
 
   .logo {
@@ -71,7 +71,7 @@ header.navigation {
   nav {
     float: none;
     min-height: $navigation-height;
-    z-index: 9999999;
+    z-index: 1000999;
 
     @include media ($horizontal-bar-mode) {
       float: left;
@@ -85,7 +85,7 @@ header.navigation {
     overflow: visible;
     padding: 0;
     width: 100%;
-    z-index: 9999;
+    z-index: 1000;
 
     &.show {
       display: block;
@@ -108,7 +108,7 @@ header.navigation {
     padding-right: 0.8em;
     text-align: right;
     width: 100%;
-    z-index: 9999;
+    z-index: 1000;
 
     @include media ($horizontal-bar-mode) {
       background: transparent;

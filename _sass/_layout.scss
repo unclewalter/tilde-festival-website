@@ -6,7 +6,6 @@ body {
 .page-content {
 	@include outer-container;
 	background-color: #fff;
-	opacity: 0.0;
 	.wrapper {
 		padding: 4em 3em;
 	}

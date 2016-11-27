@@ -42,5 +42,10 @@ $(window).load(function() {
     $(this).fadeTo('slow', 1);
   });
 
-  $('.page-content').fadeTo('slow', 1);
+  // $('.page-content').fadeTo('slow', 1);
+});
+
+$(window).load(function() {
+	// Animate loader off screen
+	$(".se-pre-con").fadeOut("slow");;
 });
