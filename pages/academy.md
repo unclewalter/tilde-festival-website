@@ -66,7 +66,15 @@ If you are interested in attending the Academy but not participating, you may en
 
 ### Tutors
 
-Tutors will be announced in the coming weeks!
+Ben Opie (oboe)
+Paula Rae (flute)
+Brigid Burke (clarinet)
+Phoebe Green (viola)
+Liza Lim (composition)
+Mohammed Kubbarra (computer music)
+Gary Butler (improvisation)
+
+More to be announced soon!
 
 ### Timeline
 
