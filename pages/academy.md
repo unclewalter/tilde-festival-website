@@ -90,6 +90,8 @@ Applications open in November and close on **31st December**. Notification of ac
 
 The next Academy will be held between **Sunday 15th **and **Saturday 21st January 2017** in Melbourne.
 
+Also note that in 2017, we will be supporting the [Asylum Seeker Resource Centre](https://www.asrc.org.au/donate-now/), please consider donating to this organisation, as they do wonderful work.
+
 ### Cost
 
 Participants: $250 full/$200 concession (including student)
