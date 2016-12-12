@@ -80,6 +80,8 @@ Mohammed Kubbarra (computer music)
 
 Gary Butler (improvisation)
 
+Chris Dench (composition)
+
 More to be announced soon!
 
 ### Timeline
