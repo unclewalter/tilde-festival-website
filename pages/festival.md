@@ -6,7 +6,7 @@ published: true
 ---
 [2014](/fest2014) ⋅ [2015](/fest2015) ⋅ [2016](/fest2016)
 
-![tilde_banner1]({{site.baseurl}}/images/banner2_small.png)
+![tilde_banner1]({{site.baseurl}}/images/banner2-opt.png)
 
 # Full announcement & tickets coming soon
 
