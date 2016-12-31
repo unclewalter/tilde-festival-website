@@ -13,7 +13,7 @@ Please read the information below before submitting an application, and [contact
 *   **Calls are open for the following**:
     *   **CLOSED** Projects and performances including notated music, improvisation, installations, and electroacoustic performance. Tilde particularly welcomes submissions featuring solo and ensemble repertoire, female composers and sound artists, and site-specific works.
     *   **CLOSED** Collaborative projects. Artists submit their interest in participating in a collaboration with other festival artists. Groups meet in the weeks leading up to the festival to prepare a 10-minute site-specific performance.
-    *   [Fixed-media works](/fixed-media) to be presented at the Festival in the sound installation. Further details on the form. Call closes on the _31st of December at 11:59PM AEST_.
+    *   **CLOSED** Fixed Media works to be presented at the Festival in the sound installation. Further details on the form. Call closes on the _31st of December at 11:59PM AEST_.
 
 *   **Tilde New Music Festival** is hosted at Testing Grounds in Southbank, Melbourne, and the Australian Institute of music in King Street, Melbourne. Testing Grounds is currently being renovated and will open again in late Spring, 2016. Stay tuned for more information about the new setup and tech specs.
 *   Please contact us if you need help tracking down resources for your project. Even if we don't have the funds to buy or hire equipment, we may know someone willing to lend it.
