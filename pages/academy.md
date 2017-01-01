@@ -14,7 +14,7 @@ _Photo by Yafei_
 
 #### The Channel, Arts Centre Melbourne
 
-[Click here to apply for Tilde New Music Academy 2017](/app-academy/)
+** Academy applications are closed **
 
 ## An exciting opportunity to learn about the composition and performance of Modern Art music.
 
@@ -88,7 +88,7 @@ More to be announced soon!
 
 Applications open in November and close on **31st December**. Notification of acceptance will be rolling as applications are assessed. If you are accepted into the Academy, you will be invited to purchase a ticket for participation. 
 
-[Click here to apply for Tilde New Music Academy 2017](/app-academy/)
+** Academy applications are closed **
 
 The next Academy will be held between **Sunday 15th **and **Saturday 21st January 2017** in Melbourne.
 
