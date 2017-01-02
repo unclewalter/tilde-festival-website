@@ -1,0 +1,21 @@
+.ticket-widget {
+  width:100%;
+  text-align:center;
+  iframe {
+    max-width: 1080px;
+    height: 400px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .ticket-widget iframe {
+    height: 465px;
+  }
+}
+
+@media (max-width: 425px) {
+  .ticket-widget iframe {
+    height: 500px;
+  }
+}

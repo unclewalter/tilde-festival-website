@@ -8,17 +8,23 @@ published: true
 
 ![tilde_banner1]({{site.baseurl}}/images/banner2-opt.png)
 
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com.au/tickets-external?eid=30285088515&ref=etckt" frameborder="0" height="400" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com.au/">Powered by Eventbrite</a></div></div>
+<div class="ticket-widget">
+  <iframe src="//eventbrite.com.au/tickets-external?eid=30285088515&amp;ref=etckt" frameborder="0" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
+</iframe>
+  <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;">
+  <a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com.au/">Powered by Eventbrite</a>
+</div>
+</div>
 
 # 2017 Lineup
 
 - Andrew Ball (QLD)
 - Butler/Hilton/Kaczmarek (VIC)
 - Patrick Lyons (VIC)
-- Brae Grimes (VIC) 
-- Phoebe Green (VIC) 
+- Brae Grimes (VIC)
+- Phoebe Green (VIC)
 - Chris Ranier (VIC)
-- Hannah Reardon-Smith (QLD) 
+- Hannah Reardon-Smith (QLD)
 - The Edge Ensemble (VIC)
 - Vicki Hallett (VIC)
 - Johnathon Winn (VIC)
@@ -28,10 +34,10 @@ published: true
 - Melanie Walters (ADL)
 - Ben Opie (VIC)
 - Laura Chislett (NSW)
-- Nunique (VIC) 
+- Nunique (VIC)
 - Maria Moles (VIC)
 - Brodie McAlistair (QLD)
-- Jo Truman (NSW) 
+- Jo Truman (NSW)
 - Martin K. Kosziolko (VIC)
 - Bianca Gannon (VIC)
 - Hanli Botha (NSW)
