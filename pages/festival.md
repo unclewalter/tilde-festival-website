@@ -47,8 +47,6 @@ published: true
 
 The Tilde New Music Festival is an annual celebration of new and experimental music covering notated and improvised music, sound art, and the intersections with other art forms. Held in Melbourne each January, the festival offers a grass-roots atmosphere with food, drink, installations, performances, and much more.
 
-Calls for fixed media for the festival are now [open](/calls) (until December 31st 2016).
-
 The 2017 festival and academy will be held from Sunday the 15th of January to Saturday the 21st of January in Melbourne.
 
 ## Want to join the Tilde team?
