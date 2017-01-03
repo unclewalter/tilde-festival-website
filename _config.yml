@@ -37,6 +37,8 @@ exclude:
 collections:
   podcast:
     output: false
+  program:
+      output: false
 
 prose:
   ignore:
