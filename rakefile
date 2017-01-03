@@ -3,3 +3,8 @@ task :generate do
   puts "## Generating Site with Jekyll"
   system "jekyll build"
 end
+
+task :staging do
+  puts "## Generating Site with Jekyll for staging bucket"
+  system "jekyll build --config _config.yml,_config_staging.yml"
+end
