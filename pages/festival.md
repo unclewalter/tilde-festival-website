@@ -38,7 +38,7 @@ published: true
 - Maria Moles (VIC)
 - Brodie McAlistair (QLD)
 - Jo Truman (NSW)
-- Martin K. Kosziolko (VIC)
+- Martin K. Koszolko (VIC)
 - Bianca Gannon (VIC)
 - Hanli Botha (NSW)
 - Mohamed Kubbara (USA)
