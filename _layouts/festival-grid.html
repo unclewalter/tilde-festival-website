@@ -1,0 +1,88 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  <article class="post-content">
+    <div class="festival-grid">
+      <table>
+        <thead>
+          <th colspan="1">Time</th>
+          {% for space in site.data.spaces %}
+            <th colspan="2">{{ space.name }}</th>
+          {% endfor %}
+        </thead>
+        <tbody>
+          {% capture skipCountsRaw %}{% for space in site.data.spaces %}{% if forloop.last == true %}0{% else %}0,{% endif %}{% endfor %}{% endcapture %}
+          {% assign skipCounts = skipCountsRaw | split: ','%}
+          {% for hour in (11..23) %}
+            {% for minuteMultiplier in (0..3) %}
+              {% capture time %}{{ hour }}:{% if minuteMultiplier == 0 %}0{% endif %}{{ minuteMultiplier | times: 15 }}{% endcapture %}
+              <tr>
+                <td style="padding:4px">{% if minuteMultiplier == 0 %}{{ time }}{% else %}&nbsp;{% endif %}</td>
+                {% for space in site.data.spaces %}
+                  {% unless forloop.last == true %}
+                  {% assign columnIndex = forloop.index0 %}
+                  {% for event in site.program %}
+
+                    {% if event.space == space.name %}
+
+                      {% if event.start-time == time %}
+
+                        {% assign startHours2Minutes = event.start-time | split: ':' | first | times: 60 %}
+                        {% assign startMinutes = event.start-time | split: ':' | last %}
+                        {% assign start = startHours2Minutes | plus: startMinutes %}
+
+                        {% assign endHours2Minutes = event.end-time | split: ':' | first | times: 60 %}
+                        {% assign endMinutes = event.end-time | split: ':' | last %}
+                        {% assign end = endHours2Minutes | plus: endMinutes %}
+
+                        {% assign duration = end | minus: start %}
+                        {% assign rowspan = duration | divided_by: 15 | ceil %}
+                        {% assign skipCount = rowspan | minus: 1 %}
+
+                        <td style="padding:4px;background-color:{{ space.colour }}" colspan="2" rowspan="{{ rowspan }}">
+                          <span class="event_artist"><b>{{ event.artist }}</b> - </span>
+                          <span class="event_title">{{ event.title }}</span>
+                        </td>
+                      {% assign skipCounts[columnIndex] = skipCount %}
+                      {% else %}
+                        <td style="padding:4px;" colspan="2"></td>
+                      {% endif %}
+                    {% endif %}
+                  {% endfor %}
+                  {% endunless %}
+                {% endfor %}
+              </tr>
+            {% endfor %}
+          {% endfor %}
+        </tbody>
+      </table>
+      <div class="festival-grid-content" style="display:none;">
+        {% for space in site.data.spaces %}
+        <ul data-space="{{ space.name }}">
+          {% for event in site.program %}
+          {% if event.space == space.name %}
+          {% if event.all-day == true %}
+          <li data-all-day>
+            <span class="event_time">All Day</span>
+            <span class="event_artist">{{ event.artist }}</span>
+            <span class="event_title">{{ event.title }}</span>
+          </li>
+          {% else %}
+          <li data-start-time="{{ event.start-time }}" data-end-time="{{ event.end-time }}">
+            <span class="event_time">{{ event.start-time }} - {{ event.end-time }}</span>
+            <span class="event_artist">{{ event.artist }}</span>
+            <span class="event_title">{{ event.title }}</span>
+          </li>
+          {% endif %}
+          {% endif %}
+          {% endfor %}
+        </ul>
+        {% endfor %}
+      </div>
+    </div>
+  </article>
+</div>

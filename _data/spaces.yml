@@ -1,0 +1,8 @@
+- name: "white box"
+  colour: '#fdd'
+- name: "black box"
+  colour: '#dfd'
+- name: "open box"
+  colour: '#ddf'
+- name: "grounds"
+  colour: '#ffd'
