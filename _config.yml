@@ -38,7 +38,11 @@ collections:
   podcast:
     output: false
   program:
-      output: false
+    output: true
+    permalink: /grid/item/:path/
+  artists:
+    output: true
+    permalink: /grid/artist/:path/
 
 prose:
   ignore:
