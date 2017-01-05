@@ -1,8 +1,8 @@
 - name: "white box"
-  colour: '#fdd'
+  colour: '#ffffff'
 - name: "black box"
-  colour: '#dfd'
+  colour: '#959595'
 - name: "open box"
-  colour: '#ddf'
+  colour: '#DC8D8D'
 - name: "grounds"
-  colour: '#ffd'
+  colour: '#F3C8C7'
