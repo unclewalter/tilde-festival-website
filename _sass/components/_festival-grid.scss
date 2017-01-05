@@ -1,8 +1,17 @@
 .festival-grid {
-  background-color: '#fdd'
+  background-color: #fbfbfb;
+  padding: 0 0.5em;
+  border: 1px solid #eee;
+  box-shadow: 4px 4px 10px #f3f3f3;
   table {
+    th {
+      padding: 0.5em;
+    }
     td {
       padding: 2px 4px;
+    }
+    td.grid-item {
+      border: 1px solid #ddd;
     }
   }
 }

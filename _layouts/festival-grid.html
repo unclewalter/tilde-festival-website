@@ -48,7 +48,7 @@ layout: default
                         {% assign rowspan = duration | divided_by: 15 | ceil %}
 
                         {% if currentTime == start and space.name == event.space %}
-                          <td style="background-color:{{ space.colour }}" colspan="2" rowspan="{{ rowspan }}">
+                          <td class="grid-item" style="background-color:{{ space.colour }};border-bottom: 7px solid {{ space.border-colour }};" colspan="2" rowspan="{{ rowspan }}">
                             <span class="event_artist"><b>{{ event.artist }}</b> - </span>
                             <span class="event_title">{{ event.title }}</span>
                           </td>
