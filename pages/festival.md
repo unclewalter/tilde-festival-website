@@ -16,9 +16,14 @@ published: true
 </div>
 </div>
 
-[Layout & Lineup Grid -- Temporary (PDF).](/assets/img/draft_grid_for_web.pdf) -- A full, mobile friendly program grid will be available on the day.
+## Ticket information
+**Festival Pass:** The Festival Pass is a limited-run of passes that allow priority entry into all ticketed events, goes toward our running costs, and also offers a significant discount over what it would cost to pay for each performance individually. Any remaining Festival Passes will be available until sold out on the day.
 
-** Please note that there will be individual concert tickets available on the day/at the door to certain performances (others are free), and will be $10.
+**Individual Performances:** On the day of the Festival, all *outdoor* performances are free, but the two indoor venues are ticketed and will be available at *$10 per performance.*
+
+**Payment Options:** The festival passes are admnistered through EventBrite (see above), which takes payments online. We will take cash only at the doors to the venues, but have EFT/Credit facilities at the main ticketing/information booth to be located at the bar. Bars are good.
+
+[Layout & Lineup Grid -- Temporary (PDF).](/assets/img/draft_grid_for_web.pdf) -- A full, mobile friendly program grid will be available on the day.
 
 # 2017 Lineup
 
