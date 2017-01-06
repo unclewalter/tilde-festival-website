@@ -18,6 +18,8 @@ published: true
 
 [Layout & Lineup Grid -- Temporary (PDF).](/assets/img/draft_grid_for_web.pdf) -- A full, mobile friendly program grid will be available on the day.
 
+** Please note that there will be individual concert tickets available on the day/at the door to certain performances (others are free), and will be $10.
+
 # 2017 Lineup
 
 - Andrew Ball (QLD)
