@@ -16,6 +16,8 @@ published: true
 </div>
 </div>
 
+[Layout & Lineup Grid -- Temporary (PDF).](/assets/img/draft_grid_for_web.pdf) -- A full, mobile friendly program grid will be available on the day.
+
 # 2017 Lineup
 
 - Andrew Ball (QLD)
