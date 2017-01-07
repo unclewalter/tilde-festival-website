@@ -32,7 +32,7 @@ published: true
 - Patrick Lyons (VIC)
 - Brae Grimes (VIC)
 - Phoebe Green (VIC)
-- Chris Ranier (VIC)
+- Chris Rainier (VIC)
 - Hannah Reardon-Smith (QLD)
 - The Edge Ensemble (VIC)
 - Vicki Hallett (VIC)
