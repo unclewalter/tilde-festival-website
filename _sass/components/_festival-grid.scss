@@ -12,6 +12,9 @@
     }
     td.grid-item {
       border: 1px solid #ddd;
+      .event_artist, .event_title {
+        font-size: 9pt;
+      }
     }
   }
 }

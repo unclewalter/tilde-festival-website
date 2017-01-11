@@ -7,68 +7,7 @@ layout: default
   </header>
   <article class="post-content">
     <div class="festival-grid">
-      <table>
-        <thead>
-          <th colspan="1">Time</th>
-          {% for space in site.data.spaces %}
-            <th colspan="2">{{ space.name }}</th>
-          {% endfor %}
-        </thead>
-        <tbody>
-          {% for hour in (11..23) %}
-            {% for minuteMultiplier in (0..3) %}
-
-              {% capture time %}{{ hour }}:{% if minuteMultiplier == 0 %}0{% endif %}{{ minuteMultiplier | times: 15 }}{% endcapture %}
-
-              {% comment %}Generates time in minutes since midnight{% endcomment %}
-              {% assign currentHours2Minutes = time | split: ':' | first | times: 60 %}
-              {% assign currentMinutes = time | split: ':' | last %}
-              {% assign currentTime = currentHours2Minutes | plus: currentMinutes %}
-
-              <tr>
-                <td>{% if minuteMultiplier == 0 %}{{ time }}{% else %}&nbsp;{% endif %}</td>
-
-                {% for space in site.data.spaces %}
-                  {% assign eventPresent = false %}
-                  {% assign columnIndex = forloop.index0 %}
-                  {% unless forloop.last == true %}
-                    {% for event in site.program %}
-                      {% if event.start-time and event.end-time %}
-                        {% comment %}Generates event start time in minutes since midnight{% endcomment %}
-                        {% assign startHours2Minutes = event.start-time | split: ':' | first | times: 60 %}
-                        {% assign startMinutes = event.start-time | split: ':' | last %}
-                        {% assign start = startHours2Minutes | plus: startMinutes %}
-
-                        {% comment %}Generates event end time in minutes since midnight{% endcomment %}
-                        {% assign endHours2Minutes = event.end-time | split: ':' | first | times: 60 %}
-                        {% assign endMinutes = event.end-time | split: ':' | last %}
-                        {% assign end = endHours2Minutes | plus: endMinutes %}
-
-                        {% assign duration = end | minus: start %}
-                        {% assign rowspan = duration | divided_by: 15 | ceil %}
-
-                        {% if currentTime == start and space.name == event.space %}
-                          <td class="grid-item" style="background-color:{{ space.colour }};border-bottom: 7px solid {{ space.border-colour }};" colspan="2" rowspan="{{ rowspan }}">
-                            <span class="event_artist"><b>{{ event.artist }}</b> - </span>
-                            <span class="event_title">{{ event.title }}</span>
-                          </td>
-                        {% endif %}<!-- currentTime == start -->
-                        {% if currentTime >= start and currentTime <= end and space.name == event.space %}
-                          {% assign eventPresent = true %}
-                        {% endif %}<!-- currentTime == start -->
-                      {% endif %}<!-- event.start-time and event.end-time -->
-                    {% endfor %}<!-- events iterator -->
-                    {% unless eventPresent == true %}
-                      <td style="" colspan="2"></td>
-                    {% endunless %}<!-- event.start-time and event.end-time -->
-                  {% endunless %}<!-- unless last item in spaces -->
-                {% endfor %}<!-- space in site.data.spaces -->
-              </tr>
-
-            {% endfor %}<!-- minutes loop -->
-          {% endfor %}<!-- hours loop -->
-        </tbody>
-      </table>
+        {% festival_grid 11:00 23:00 %}
       <div class="festival-grid-content" style="display:none;">
         {% for space in site.data.spaces %}
         <ul data-space="{{ space.name }}">

@@ -10,3 +10,4 @@
 - name: "grounds"
   colour: '#F3C8C7'
   border-colour: '#bb9998'
+  all-day: true
