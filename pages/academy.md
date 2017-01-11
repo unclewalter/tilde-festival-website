@@ -16,6 +16,36 @@ _Photo by Yafei_
 
 ** Academy applications are closed **
 
+[Tilde New Music Academy Discussion Events](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy-public-program)
+
+## In Depth – Tilde Academy Discussion Events
+This year, Tilde New Music Academy and The Channel at Arts Centre Melbourne hosts three discussion events centred on contemporary art and experimental music practice. 
+
+Tickets are available from the Arts Centre Website (see links, and please note the dates and times below when booking your ticket). $15 full/$10 conc.
+
+## In Depth #1: On Improvisation and Spontaneous Collaboration
+### Sunday the 15th of January, 2pm to 3:30pm
+### Aviva Endean and Mohamed Kubbara (or Gary Butler)
+
+Aviva Endean and Mohamed Kubbara (or Gary Butler) discuss spontaneous collaborations, and improvisation in a contemporary music setting, with performances. 
+
+
+## In Depth #2: On Audiovisual Performance and Composition
+### Monday the 16th of January, 7pm to 8:30pm
+### Brigid Burke
+
+A performance of TRANSIT Plus by Brigid Burke followed by a discussion of contemporary audiovisual performance and composition.
+
+TRANSIT Plus is series of performance works that consists of Instinct and Episodes, Green Skies….Moments and TRANSIT for Bb/Bass clarinet, electronics and live video. These compositions reference the environment, architecture of the surrounding areas, sonic and visual improvisation/composition with the creation of multi-layered juxtapositions. These three compositions create linkages between location, audience, artist, and cultural/conceptual space. They explore the roles of visual and sonic representation, communicating with the audience in creating a shared surreal/hyperrealism space with tangible moments.
+
+## IN DEPTH #3: On Commissioning, Collaboration, and Solo Performance
+### Tuesday the 17th of January, 7pm-8:30pm.
+### Phoebe Green (viola), Ben Opie (oboe), Hannah Reardon-Smith (flute)
+
+A discussion on commissioning new works, collaborating with composers and performers, and solo performance repertoire by some of Australia's top instrumentalists.
+
+[Tilde New Music Academy Discussion Events](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy-public-program)
+
 ## An exciting opportunity to learn about the composition and performance of Modern Art music.
 
 The Tilde New Music Academy is a week-long series of workshops for performers and composers focussing on contemporary art music included notated music, sound art, computer music, and improvisation.
