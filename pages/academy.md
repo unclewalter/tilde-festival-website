@@ -25,13 +25,24 @@ Tickets are available from the Arts Centre Website (see links, and please note t
 
 ##In Depth #1: On Improvisation and Spontaneous Collaboration
 **Sunday the 15th of January, 2pm to 3:30pm**
+
 **Aviva Endean and Mohamed Kubbara (or Gary Butler)**
 
-Aviva Endean and Mohamed Kubbara (or Gary Butler) discuss spontaneous collaborations, and improvisation in a contemporary music setting, with performances. 
+Aviva Endean and Gary Butler discuss spontaneous collaborations, and improvisation in a contemporary music setting, with performances. 
+Unfortunately we have had to do a last-minute change to this event, and Gary Butler will now be replacing Mohamed Kubbara for a discussion on improvisation with Aviva Endean.
+
+Aviva Endean is a performance-maker, clarinettist and composer interested in expanding the audience experience of sound by creating intimate, unusual and spatially engaged contexts for listening. She challenges standard forms and contexts for performance in order to create new and unexpected ways of engaging with her work. Her performance practice spans a wide variety of musical styles and performance contexts including experimental and improvised music, theatre, creating immersive sonic environments, chamber music, folk music and inter-arts collaborations.
+
+Aviva is the recipient of numerous Awards and grants including the prestigious Freedman Music Fellowship, JUMP mentorship program, the Keith and Elizabeth Murdoch Travelling scholarship, the Willem Van Otterloo memorial award, the Atheneum prize for chamber music and the Lionel Gell Merit award. Her work has been nominted for the EG music Awards ‘best Avant-garde/experimental act’ 2013, and the Aria Awards ‘Best World Music album’ 2014.
+
+Her recent original works include the ‘Intimate Sound Immersion‘, a performance for one blindfolded person at a time (You Are Here festival, The Village festival, Camp Elsewhere) ‘In the Half Light’, a show for solo clarinet and immersive lighting design (presented by ASTRA as part of the JUMP mentorship program) ‘A Face Like Yours’ a sound work for video, foam earplugs and viewer (selected for Sydney Contemporary Art Fair) ‘Dual Rituals’ for clarinets and percussion (Bendigo International Festival for Exploratory Music) ‘The Perfect Human’ for 3 acapella female vocalists and lo-fi lighting (presented by Chamber Made Opera as part of their Little Operations events), ‘Domicile’ a performance installation work inhabiting a family home (New Music Network mini series) and ‘Hapnophobia’ a site specific participatory work for 5x5x5 at the Melbourne Arts Centre.
+
+Gary has been performing improvised music for 20 years. His interest in extending the range of the guitar has led to him rubbing pizza into the strings, throwing a guitar from a 3rd storey window, nailing a guitar to a cross, having food fights with his family on stage, writing a PhD thesis on prepared instruments, playing J.S. Bach’s “Prelude in Dm” and playing/attacking the guitar with various items including (but not limited to) toys, a bird cage, a vibrator, shoes, sticks, polystyrene, fireworks, a battery operated masturbating hand, an axe and a kitchen sink
 
 
 ##In Depth #2: On Audiovisual Performance and Composition
 **Monday the 16th of January, 7pm to 8:30pm**
+
 **Brigid Burke**
 
 A performance of TRANSIT Plus by Brigid Burke followed by a discussion of contemporary audiovisual performance and composition.
@@ -40,6 +51,7 @@ TRANSIT Plus is series of performance works that consists of Instinct and Episod
 
 ##IN DEPTH #3: On Commissioning, Collaboration, and Solo Performance
 **Tuesday the 17th of January, 7pm-8:30pm.**
+
 **Phoebe Green (viola), Ben Opie (oboe), Hannah Reardon-Smith (flute)**
 
 A discussion on commissioning new works, collaborating with composers and performers, and solo performance repertoire by some of Australia's top instrumentalists.
