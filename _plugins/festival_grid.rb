@@ -46,24 +46,31 @@ module Jekyll
 
       # Populating a hash of columns with each time-slot as keys and the pulling the items into their respective time slots
       spaceNames = []
+      allDayItemCount = Hash.new
+
       context.registers[:site].data["spaces"].each do |space|
         # Generating a titlecase list of space names
         spaceNames.push(space["name"].downcase.split(/(\s)/).map.with_index{ |x,i|
           ( i==0 || x.match(/^(?:a|is|of|the|and)$/).nil? ) ? x.capitalize : x
         }.join)
 
+
         spaceColumn = Hash.new
-        unless space["all-day"]
+        if space["all-day"]
+          allDayItemCount[space["name"]] = 0
+        else
           timeSlots.each do |time|
             spaceColumn[time] = ''
           end
         end
 
         items.each do |itemHash|
-          allDayItemIterator = 0
           if itemHash["space"] == space["name"]
             # TODO Sort out all-day item type
-            unless space["all-day"]
+            if space["all-day"]
+              spaceColumn[allDayItemCount[space["name"]]] = itemHash
+              allDayItemCount[space["name"]] += 1
+            else
               spaceColumn[itemHash["start-time"]] = itemHash
             end
           end
@@ -91,30 +98,68 @@ module Jekyll
       # Populating the table row-by-row
 
       skipCount = Hash.new
+      allDayItemStride = Hash.new
+      itemSelector = Hash.new
       context.registers[:site].data["spaces"].each do |space|
-        skipCount[space["name"]] = 0
+        skipCount[space["name"]]    = 0
+        itemSelector[space["name"]] = 0
+        if space["all-day"]
+          allDayItemStride[space["name"]] = (timeSlots.length/columns[space["name"]].length).floor
+          puts "allDayItemStride: #{allDayItemStride}"
+        end
       end
 
       timeSlots.each do |time|
         minute = time.split(":")[1]
         if minute == "00"
           htmlOutput << "<tr><td>#{time}</td>"
+          currentItem = Hash.new
         else
           htmlOutput << "<tr><td>&nbsp;</td>"
         end
         context.registers[:site].data["spaces"].each do |space|
-          unless space["all-day"]
-            colour = space["colour"]
-            borderColour = space["border-colour"]
+          colour = space["colour"]
+          borderColour = space["border-colour"]
+
+
+          if space["all-day"]
+            if itemSelector[space["name"]] >= columns[space["name"]].length
+              currentItem = ''
+            else
+              if skipCount[space["name"]] > 0
+                currentItem = ''
+                if skipCount[space["name"]] == 1
+                  itemSelector[space["name"]] += 1
+                end
+                skipCount[space["name"]] -= 1
+                puts 'skipCount[space["name"]] > 0'
+              else
+                currentItem = columns[space["name"]][itemSelector[space["name"]]]
+                puts "currentItem: #{currentItem}"
+                puts "itemSelector: #{itemSelector}"
+                skipCount[space["name"]] = allDayItemStride[space["name"]]
+                # puts "skipCount: #{skipCount}"
+              end
+              # puts "skipCount: #{skipCount}"
+              # puts "currentItem: #{currentItem}"
+            end # itemSelector[space["name"]] >= columns[space["name"]].length
+          else # if space["all-day"]
 
             currentItem = columns[space["name"]][time]
+          end
 
-            if currentItem.empty?
-              if currentItem.empty? and skipCount[space["name"]] == 0
-                htmlOutput << "<td colspan='2'></td>"
-              else
+          if currentItem.empty?
+            if skipCount[space["name"]] == 0
+              htmlOutput << "<td colspan='2'></td>"
+            else
+              unless space["all-day"]
                 skipCount[space["name"]] = skipCount[space["name"]] - 1
               end
+            end
+          else # currentItem.empty?
+            if space["all-day"]
+              rowspan = allDayItemStride[space["name"]]
+              # puts "currentItem: #{currentItem}"
             else
               # Calculating duration in minutes
               itemStart = currentItem["start-time"].split(":")[0].to_i * 60 + currentItem["start-time"].split(":")[1].to_i
@@ -123,12 +168,17 @@ module Jekyll
               itemDuration = itemEnd - itemStart
 
               rowspan = (itemDuration/15).ceil
-
-              htmlOutput << "<td class='grid-item' style='background-color:#{colour};border-bottom: 7px solid #{borderColour};' colspan='2' rowspan='#{rowspan}'><span class='event_artist'>#{currentItem["artist"]} - </span><b><span class='event_title'>#{currentItem["title"]}</span></b></td>"
-              skipCount[space["name"]] = rowspan-1
             end
 
-          end
+            htmlOutput << "<td class='grid-item' style='background-color:#{colour};border-bottom: 7px solid #{borderColour};' colspan='2' rowspan='#{rowspan}'>"
+
+            if space["all-day"]
+              htmlOutput << "<span class='event_all_day'>All Day</span><br>"
+            else
+              skipCount[space["name"]] = rowspan-1
+            end
+            htmlOutput << "<span class='event_artist'>#{currentItem["artist"]} - </span><span class='event_title'>#{currentItem["title"]}</span></td>"
+          end # else currentItem.empty?
         end
         htmlOutput << "</tr>"
       end

@@ -11,9 +11,22 @@
       padding: 2px 4px;
     }
     td.grid-item {
+      opacity: 0.75;
+      -webkit-transition: opacity 0.3s ease-in-out;
+      -moz-transition: opacity 0.3s ease-in-out;
+      transition: opacity 0.3s ease-in-out;
+      &:hover {
+        opacity: 1.0;
+      }
       border: 1px solid #ddd;
       .event_artist, .event_title {
         font-size: 9pt;
+      }
+      .event_title {
+        font-weight: 500;
+      }
+      .event_all_day {
+        font-style: italic;
       }
     }
   }
