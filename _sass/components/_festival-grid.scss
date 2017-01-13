@@ -9,6 +9,8 @@
     }
     td {
       padding: 2px 4px;
+      height: 100%;
+      overflow: hidden;
     }
     td.grid-item {
       opacity: 0.75;
@@ -19,7 +21,6 @@
         opacity: 1.0;
         border-bottom-color: #000;
       }
-      border: 1px solid #ddd;
       .event_artist, .event_title {
         font-size: 9pt;
       }
@@ -36,6 +37,9 @@
         opacity: 0.75;
         color: #000;
         font-family: "helvetica neue", sans-serif;
+        display: block;
+        margin: -10em;
+        padding: 10em;
         &:hover {
           color: #000;
           opacity: 1.0;
