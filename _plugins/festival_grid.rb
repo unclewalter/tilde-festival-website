@@ -21,7 +21,10 @@ module Jekyll
       # Collecting meta-data from all the program items into an array of item hashes
       items = []
       context.registers[:site].collections["program"].docs.each do |key, value|
-        items.push(key.data)
+        item = key.data
+        item["permalink"] = key.url
+        items.push(item)
+
       end
 
       # --- Generating table hash ---
@@ -105,7 +108,6 @@ module Jekyll
         itemSelector[space["name"]] = 0
         if space["all-day"]
           allDayItemStride[space["name"]] = (timeSlots.length/columns[space["name"]].length).floor
-          puts "allDayItemStride: #{allDayItemStride}"
         end
       end
 
@@ -132,16 +134,10 @@ module Jekyll
                   itemSelector[space["name"]] += 1
                 end
                 skipCount[space["name"]] -= 1
-                puts 'skipCount[space["name"]] > 0'
               else
                 currentItem = columns[space["name"]][itemSelector[space["name"]]]
-                puts "currentItem: #{currentItem}"
-                puts "itemSelector: #{itemSelector}"
                 skipCount[space["name"]] = allDayItemStride[space["name"]]
-                # puts "skipCount: #{skipCount}"
               end
-              # puts "skipCount: #{skipCount}"
-              # puts "currentItem: #{currentItem}"
             end # itemSelector[space["name"]] >= columns[space["name"]].length
           else # if space["all-day"]
 
@@ -172,12 +168,14 @@ module Jekyll
 
             htmlOutput << "<td class='grid-item' style='background-color:#{colour};border-bottom: 7px solid #{borderColour};' colspan='2' rowspan='#{rowspan}'>"
 
+            htmlOutput << "<a href='#{currentItem["permalink"]}'>"
+
             if space["all-day"]
               htmlOutput << "<span class='event_all_day'>All Day</span><br>"
             else
               skipCount[space["name"]] = rowspan-1
             end
-            htmlOutput << "<span class='event_artist'>#{currentItem["artist"]} - </span><span class='event_title'>#{currentItem["title"]}</span></td>"
+            htmlOutput << "<span class='event_artist'>#{currentItem["artist"]} - </span><span class='event_title'>#{currentItem["title"]}</span></a></td>"
           end # else currentItem.empty?
         end
         htmlOutput << "</tr>"

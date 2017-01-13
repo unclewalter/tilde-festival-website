@@ -44,6 +44,13 @@ collections:
     output: true
     permalink: /grid/artist/:path/
 
+defaults:
+  - scope:
+      path: ""
+      type: program
+    values:
+      layout: program
+
 prose:
   ignore:
     - _includes
