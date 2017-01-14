@@ -146,7 +146,7 @@ module Jekyll
 
           if currentItem.empty?
             if skipCount[space["name"]] == 0
-              htmlOutput << "<td colspan='2'></td>"
+              htmlOutput << "<td colspan='2'>&nbsp;</td>"
             else
               unless space["all-day"]
                 skipCount[space["name"]] = skipCount[space["name"]] - 1
