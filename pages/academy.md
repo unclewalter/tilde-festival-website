@@ -16,9 +16,9 @@ _Photo by Yafei_
 
 **Map and venue information:** [The Channel](https://www.artscentremelbourne.com.au/discover/the-channel) 
 
-[Tilde New Music Academy Discussion Events](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy-public-program)
+**Tickets:** [Tilde New Music Academy Discussion Events](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy-public-program)
 
-##In Depth – Tilde Academy Discussion Events
+###In Depth – Tilde Academy Discussion Events
 This year, Tilde New Music Academy and The Channel at Arts Centre Melbourne hosts three discussion events centred on contemporary art and experimental music practice. 
 
 Tickets are available from the Arts Centre Website (see links, and please note the dates and times below when booking your ticket). $15 full/$10 conc.
@@ -56,9 +56,16 @@ TRANSIT Plus is series of performance works that consists of Instinct and Episod
 
 A discussion on commissioning new works, collaborating with composers and performers, and solo performance repertoire by some of Australia's top instrumentalists.
 
-[Tilde New Music Academy Discussion Events](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy-public-program)
+
+Tickets available [online](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy-public-program) or at the Hamer Hall box office.
+
+---
+
+###Tilde New Music Academy
 
 ## An exciting opportunity to learn about the composition and performance of Modern Art music.
+
+**Applications are closed.**
 
 The Tilde New Music Academy is a week-long series of workshops for performers and composers focussing on contemporary art music included notated music, sound art, computer music, and improvisation.
 
