@@ -14,7 +14,7 @@ _Photo by Yafei_
 
 ####The Channel, Arts Centre Melbourne
 
-**Academy applications are closed**
+**Map and venue information:** [The Channel](https://www.artscentremelbourne.com.au/discover/the-channel) 
 
 [Tilde New Music Academy Discussion Events](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy-public-program)
 
