@@ -2,9 +2,7 @@ module Jekyll
   class FestivalGrid < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
-      @tag_name = tag_name
       @text     = text
-      @tokens   = tokens
     end
 
     def render(context)
