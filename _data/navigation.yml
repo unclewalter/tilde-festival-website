@@ -5,7 +5,7 @@
 - title: "Festival"
   url: "/festival/"
   side: left
-
+  
 - title: "Academy"
   url: "/academy/"
   side: left
@@ -29,3 +29,7 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+
+- title: "2017 Festival Program"
+  url: "/grid/"
+  side: left
