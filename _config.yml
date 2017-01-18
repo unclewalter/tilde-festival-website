@@ -37,6 +37,19 @@ exclude:
 collections:
   podcast:
     output: false
+  program:
+    output: true
+    permalink: /grid/item/:path/
+  artists:
+    output: true
+    permalink: /grid/artist/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: program
+    values:
+      layout: program
 
 prose:
   ignore:

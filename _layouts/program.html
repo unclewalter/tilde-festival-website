@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  {% if page.class %}
+    <body class="{{ page.class }}">
+  {% else %}
+    <body>
+  {% endif %}
+  {% include loader.html %}
+  <div class="wrapper-for-content-outside-of-footer">
+      {% include header.html %}
+      <div class="page-content">
+        <div class="promo-image" style="background-image:url('{{ page.promo-image }}');background-position:{{ page.promo-image-position }}"></div>
+        <div class="wrapper">
+          <p style="text-align: right;">
+            <a href="/grid/" class="return-to-grid">&laquo; Return to Festival Grid</a>
+
+          </p>
+          <div class="post">
+            <header class="post-header">
+              <h2 class="post-subtitle">{{ page.artist }}</h2>
+              <h1 class="post-title">{{ page.title }}</h1>
+            </header>
+            <article class="post-content">
+              {{ content }}
+            </article>
+          </div>
+        </div>
+      </div>
+  </div>
+    {% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  <article class="post-content">
+    <div class="festival-grid">
+        {% festival_grid 11:00 23:00 %}
+      <div class="festival-grid-content" style="display:none;">
+        {% for space in site.data.spaces %}
+        <ul data-space="{{ space.name }}">
+          {% for event in site.program %}
+          {% if event.space == space.name %}
+          {% if event.all-day == true %}
+          <li data-all-day>
+            <span class="event_time">All Day</span>
+            <span class="event_artist">{{ event.artist }}</span>
+            <span class="event_title">{{ event.title }}</span>
+          </li>
+          {% else %}
+          <li data-start-time="{{ event.start-time }}" data-end-time="{{ event.end-time }}">
+            <span class="event_time">{{ event.start-time }} - {{ event.end-time }}</span>
+            <span class="event_artist">{{ event.artist }}</span>
+            <span class="event_title">{{ event.title }}</span>
+          </li>
+          {% endif %}
+          {% endif %}
+          {% endfor %}
+        </ul>
+        {% endfor %}
+      </div>
+    </div>
+  </article>
+</div>
