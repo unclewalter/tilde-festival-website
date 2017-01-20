@@ -16,6 +16,8 @@ published: true
 </div>
 </div>
 
+[Layout & Lineup Grid](/grid/)
+
 ## Ticket information
 **Festival Pass:** The Festival Pass is a limited-run of passes that allow priority entry into all ticketed events, goes toward our running costs, and also offers a significant discount over what it would cost to pay for each performance individually. Any remaining Festival Passes will be available until sold out on the day.
 
@@ -23,7 +25,7 @@ published: true
 
 **Payment Options:** The festival passes are admnistered through EventBrite (see above), which takes payments online. We will take cash only at the doors to the venues, but have EFT/Credit facilities at the main ticketing/information booth to be located at the bar. Bars are good.
 
-[Layout & Lineup Grid -- Temporary (PDF).](/assets/img/draft_grid_for_web.pdf) -- A full, mobile friendly program grid will be available on the day.
+[Layout & Lineup Grid](/grid/)
 
 # 2017 Lineup
 
@@ -46,7 +48,6 @@ published: true
 - Nunique (VIC)
 - Maria Moles (VIC)
 - Brodie McAlistair (QLD)
-- Jo Truman (NSW)
 - Martin K. Koszolko (VIC)
 - Bianca Gannon (VIC)
 - Hanli Botha (NSW)
