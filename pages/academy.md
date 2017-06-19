@@ -8,6 +8,11 @@ permalink: /academy/
 
 _Photo by Yafei_
 
+
+The Tilde New Music Academy is a a week-long intensive course exploring the performance and composition of new and experimental music. The next Academy will be held in January 2019 in Melbourne, Australia.
+
+
+
 ###Tilde New Music Academy 2017
 
 ####15-21 January 
