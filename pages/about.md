@@ -11,7 +11,7 @@ What is ‘new music’? New music is a broad term that describes art music of t
 
 Our broad aim is to remove the performance barriers associated with challenging new musical works through the use of open space, taking these adventurous works out of the concert hall and by encouraging the full use of the space by the artists, to engage the audience sonically, visually, and sometimes physically. Our musical focus is on works created in the last 50 years within the Australasian geographic region that push performer and audience in new and interesting ways, and to facilitate new networked connections and spontaneous collaborations between artists and audiences alike.
 
-The Tilde New Music Festival is held in Melbourne each January, along with the Tilde New Music Academy - a week-long intensive course exploring the performance and composition of new and experimental music.
+The Tilde New Music Festival is held in Melbourne biennially, along with the Tilde New Music Academy - a week-long intensive course exploring the performance and composition of new and experimental music.
 
 
 ### The Team
