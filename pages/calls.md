@@ -7,12 +7,12 @@ published: true
 <span style="text-decoration: underline;">Information for applicants:</span>
 
 
-##Calls for Expressions of Interest in the 2019 festival will open in August 2017 and close on Sunday 22nd October 2017 at 11:59PM AEST##
+##Calls for Expressions of Interest in the 2019 festival will open on 4th October 2017 and close on Friday 1st December 2017 at 11:59PM AEST##
 Please read the information below before submitting an application, and [contact us](http://www.tilde.net.au/contact/) with any questions.
 
 *   **Calls are open for the following**:
-    *   Projects and performances including notated music, improvisation, installations, and electroacoustic performance. Tilde particularly welcomes submissions featuring solo and ensemble repertoire; female, trans, intersex, and non-binary composers and sound artists; and site-specific works.
-    *   Collaborative projects. Artists submit their interest in participating in a collaboration with other festival artists. Groups meet in the weeks leading up to the festival to prepare a 10-minute site-specific performance.
+    *   **Projects and performances** including notated music, improvisation, installations, and electroacoustic performance. Tilde particularly welcomes submissions featuring solo and ensemble repertoire; female, trans, intersex, and non-binary composers and sound artists; and site-specific works. [APPLY HERE](https://tilde.net.au/call/#/projects)
+    *   **Opening Soon** Collaborative projects. Artists submit their interest in participating in a collaboration with other festival artists. Groups meet in the weeks leading up to the festival to prepare a 10-minute site-specific performance.
     *   **Opening Soon** Fixed Media works to be presented at the festival in the sound installation. 
 
 *   **Tilde New Music Festival** is hosted at Testing Grounds in Southbank, Melbourne. This is a unique space and we reccommend checking it out before you before submitting your EOI. 
