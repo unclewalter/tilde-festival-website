@@ -18,6 +18,21 @@ section.image_gallery {
       max-width: none;
       max-height: 100%;
     }
+    div.photo_caption {
+      position: absolute;
+      background: rgba(0, 0, 0, 0.0);
+      color: rgba(1.0, 1.0, 1.0, 0.0);
+      padding: 2px;
+      width: 164px;
+      height: 170px;
+      transition: all 0.23s ease-in-out 0s;
+      text-align: center;
+      &:hover {
+        visibility: visible;
+        background: rgba(0, 0, 0, 0.5);
+        color: rgba(255, 255, 255, 0.7);
+      }
+    }
   }
 
   // Bodging up a fluid grid

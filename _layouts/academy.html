@@ -9,15 +9,20 @@ layout: default
     {{ content }}
   </article>
   <section class="image_gallery" data-featherlight-gallery data-featherlight-filter="a">
-    <h1>Photos</h1>
-  {% loop_directory directory:images/academy iterator:image filter:*.jpg sort:descending %}
-    <div class="crop">
-     {% capture imageurl %}images/academy/{{image}}{% endcapture %}
-     <a href="#" data-featherlight="{% thumbnail imageurl 1366x768> %}">
-       {% thumbnail imageurl 170x170^ %}
-     </a>
-   </div>
-  {% endloop_directory %}
+  {% for photo in site.data.academy %}
+  <div class="crop">
+    {% capture imageurl %}images/academy/{{photo.file}}{% endcapture %}
+    <a href="#" data-featherlight="{% thumbnail imageurl 1366x768> %}">
+      <div class="photo_caption">
+        {% if photo.credit %}
+        Credit:
+        <br />
+        {{photo.credit}}
+        {% endif %}
+      </div>
+      {% thumbnail imageurl 170x170^ %}
+    </a>
+  </div>
+  {% endfor %}
   </section>
-
 </div>
