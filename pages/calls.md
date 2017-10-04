@@ -7,7 +7,7 @@ published: true
 <span style="text-decoration: underline;">Information for applicants:</span>
 
 
-##Calls for Expressions of Interest in the 2019 festival will open on 4th October 2017 and close on Friday 1st December 2017 at 11:59PM AEST##
+##Calls for Expressions of Interest in the 2019 festival are NOW OPEN and close on Friday 1st December 2017 at 11:59PM AEST##
 Please read the information below before submitting an application, and [contact us](http://www.tilde.net.au/contact/) with any questions.
 
 *   **Calls are open for the following**:
