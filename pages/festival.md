@@ -6,15 +6,19 @@ published: true
 ---
 [2014](/fest2014) ⋅ [2015](/fest2015) ⋅ [2016](/fest2016)
 
+
+The Tilde New Music Festival is a biennial celebration of new and experimental music covering notated and improvised music, sound art, and the intersections with other art forms. Held in Melbourne in January, the festival offers a grass-roots atmosphere with food, drink, installations, performances, and much more.
+
+## The next Tilde New Music Festival will be held on Saturday 19th January, 2019 at Testing Grounds in Southbank, Melbourne
+
+Want to join the Tilde team?
+
+**Send an email to [info@tilde.net.au](info@tilde.net.au)**
+
+
+
 ![tilde_banner1]({{site.baseurl}}/images/banner2-opt.png)
 
-<div class="ticket-widget">
-  <iframe src="//eventbrite.com.au/tickets-external?eid=30285088515&amp;ref=etckt" frameborder="0" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
-</iframe>
-  <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;">
-  <a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com.au/">Powered by Eventbrite</a>
-</div>
-</div>
 
 [Layout & Lineup Grid](/grid/)
 
@@ -55,10 +59,6 @@ published: true
 - Thea Rossen (VIC)
 - Ryan Williams (VIC)
 
-The Tilde New Music Festival is an annual celebration of new and experimental music covering notated and improvised music, sound art, and the intersections with other art forms. Held in Melbourne each January, the festival offers a grass-roots atmosphere with food, drink, installations, performances, and much more.
 
-The 2017 festival and academy will be held from Sunday the 15th of January to Saturday the 21st of January in Melbourne.
 
-## Want to join the Tilde team?
 
-**Send an email to [info@tilde.net.au](info@tilde.net.au)**
