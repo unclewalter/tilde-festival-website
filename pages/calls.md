@@ -11,8 +11,8 @@ published: true
 Please read the information below before submitting an application, and [contact us](http://www.tilde.net.au/contact/) with any questions.
 The 2019 Festival is scheduled for Saturday January 19th, 2019.
 
-*   **Calls are open for the following**:
-    *   **Projects and performances** including notated music, improvisation, installations, and electroacoustic performance. Tilde particularly welcomes submissions featuring solo and ensemble repertoire; female, trans, intersex, and non-binary composers and sound artists; and site-specific works. [APPLY HERE](https://tilde.net.au/call/#/projects)
+*   **No currently open calls, check back regularly!**:
+    *   **Projects and performances (now closed: thanks to all who applied)** including notated music, improvisation, installations, and electroacoustic performance. Tilde particularly welcomes submissions featuring solo and ensemble repertoire; female, trans, intersex, and non-binary composers and sound artists; and site-specific works. 
     *   **Opening Soon** Collaborative projects. Artists submit their interest in participating in a collaboration with other festival artists. Groups meet in the weeks leading up to the festival to prepare a 10-minute site-specific performance.
     *   **Opening Soon** Fixed Media works to be presented at the festival in the sound installation. 
 
