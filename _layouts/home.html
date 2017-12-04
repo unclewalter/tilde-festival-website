@@ -9,9 +9,9 @@
         <div class="page-content">
             <section class="frontpage-slideshow">
                 <ul class="slides">
-                    {% loop_directory directory:images/slides iterator:image filter:*.jpg sort:ascending %}
-                    <li><img src="images/slides/{{ image }}" /></li>
-                    {% endloop_directory %}
+                  {% for image in site.data.homebanner %}
+                    <li><img src="images/slides/{{ image.file }}" /></li>
+                  {% endfor %}
                 </ul>
             </section>
             <div class="wrapper">
