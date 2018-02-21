@@ -1,23 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="426.667px" height="250px" viewBox="51.5 0 426.667 250" enable-background="new 51.5 0 426.667 250" xml:space="preserve">
-<text transform="matrix(1.054 0 0 1 65.5859 210.0234)" font-family="'Courier'" font-size="44.2646">tilde~</text>
-<g>
-	<g>
-		<path d="M238.7,227.7c-50,0-99.9,0-149.9,0c-8.9,0-17.8,0-26.8,0c-0.7,0-1.5,0-2.2,0c-0.5,0,0.4,1.399,0.4-0.2
-			c0-5.1,0-10.2,0-15.4c0-14.5,0-29.1,0-43.6c0-1.3,0-2.6,0-3.9c0,0.5-1.4,0.601,0.1,0.601c2.6,0,5.3,0,7.9,0c54.3,0,108.7,0,163,0
-			c2.5,0,4.9,0,7.4,0c-1,0-0.7-1.3-0.7,0.5c0,1.1,0,2.3,0,3.399c0,3.9,0,7.801,0,11.7c0,15.9,0,31.8,0,47.7c0,1,1.5,1,1.5,0
-			c0-21.3,0-42.7,0-64c0-0.4-0.3-0.8-0.8-0.8c-50,0-99.9,0-149.9,0c-9.8,0-19.5,0-29.3,0c-0.4,0-0.8,0.3-0.8,0.8c0,21.3,0,42.7,0,64
-			c0,0.4,0.3,0.8,0.8,0.8c50,0,99.9,0,149.9,0c9.8,0,19.5,0,29.3,0C239.7,229.2,239.7,227.7,238.7,227.7z"/>
-	</g>
-</g>
-<rect x="65" y="165" opacity="0.4" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" enable-background="new    " width="37" height="11"/>
-<rect x="58" y="26" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="53" height="53"/>
-<ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="84.8" cy="52.6" rx="26.3" ry="25.8"/>
-<line fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" x1="85" y1="77" x2="85" y2="165"/>
-<text transform="matrix(1 0 0 1 124.499 41.3477)"><tspan x="0" y="0" font-family="'HelveticaNeue'" font-size="33">new_music_festival_</tspan><tspan x="0" y="44" font-family="'HelveticaNeue'" font-size="33">&amp;_academy_2017</tspan></text>
-<text transform="matrix(1 0 0 1 103.4233 131.6562)" font-family="'HelveticaNeue-Light'" font-size="28.5157">/.january_15-21</text>
-<text transform="matrix(1 0 0 1 318.4233 130.6562)"><tspan x="0" y="0" font-family="'HelveticaNeue'" font-size="23">/.performance</tspan><tspan x="0" y="25" font-family="'HelveticaNeue'" font-size="23">/.discussion</tspan><tspan x="0" y="50" font-family="'HelveticaNeue'" font-size="23">/.learning</tspan><tspan x="0" y="75" font-family="'HelveticaNeue'" font-size="23">/.installation</tspan><tspan x="0" y="100" font-family="'HelveticaNeue'" font-size="23">/.collaboration</tspan></text>
+<svg width="100%" height="100%" viewBox="0 0 427 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(1.054,0,0,1,13.5859,210.023)">
+        <text x="0px" y="0px" style="font-family:'Courier';font-size:44.265px;">tilde~</text>
+    </g>
+    <path d="M187.2,227.7L8.3,227.7C7.8,227.7 8.7,229.099 8.7,227.5L8.7,164.6C8.7,165.1 7.3,165.201 8.8,165.201L187.1,165.201C186.1,165.201 186.4,163.901 186.4,165.701L186.4,228.5C186.4,229.5 187.9,229.5 187.9,228.5C187.9,207.2 187.9,185.8 187.9,164.5C187.9,164.1 187.6,163.7 187.1,163.7L7.9,163.7C7.5,163.7 7.1,164 7.1,164.5C7.1,185.8 7.1,207.2 7.1,228.5C7.1,228.9 7.4,229.3 7.9,229.3L187.1,229.3C188.2,229.2 188.2,227.7 187.2,227.7Z" style="fill-rule:nonzero;"/>
+    <rect x="13.5" y="165" width="37" height="11" style="fill:none;stroke:black;stroke-opacity:0.4;stroke-width:2px;"/>
+    <rect x="6.5" y="26" width="53" height="53" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <ellipse cx="33.3" cy="52.6" rx="26.3" ry="25.8" style="fill:none;stroke:black;stroke-width:2px;"/>
+    <path d="M33.5,77L33.5,165" style="fill:none;stroke:black;stroke-width:8px;"/>
+    <g transform="matrix(1,0,0,1,124.499,41.3477)">
+        <g transform="matrix(1,0,0,1,-51.5,0)">
+            <text x="0px" y="0px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:33px;">new_music_festival_</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-51.5,44)">
+            <text x="0px" y="0px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:33px;">&amp;_academy_2019</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,53.4233,131.656)">
+        <text x="0px" y="0px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:28.516px;">/.january_13-20</text>
+    </g>
+    <g transform="matrix(1,0,0,1,318.423,130.656)">
+        <g transform="matrix(1,0,0,1,-51.5,0)">
+            <text x="0px" y="0px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:23px;">/.performance</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-51.5,25)">
+            <text x="0px" y="0px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:23px;">/.discussion</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-51.5,50)">
+            <text x="0px" y="0px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:23px;">/.lear<tspan x="51.934px 64.722px " y="0px 0px ">ni</tspan>ng</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-51.5,75)">
+            <text x="0px" y="0px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:23px;">/.installation</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-51.5,100)">
+            <text x="0px" y="0px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:23px;">/.collaboration</text>
+        </g>
+    </g>
 </svg>
