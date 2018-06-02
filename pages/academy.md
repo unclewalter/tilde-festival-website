@@ -4,7 +4,7 @@ published: true
 title: Academy
 permalink: /academy/
 ---
-![Carmen Chan - Photo by Yafei]({{site.baseurl}}/images/TNMA_2017.jpg) ![Melbourne Arts Centre]({{site.baseurl}}/images/arts-centre-logo.svg)
+![Carmen Chan - Photo by Yafei]({{site.baseurl}}/images/TNMA_2017.jpg)
 
 _Photo by Yafei_
 
@@ -13,22 +13,22 @@ The Tilde New Music Academy is a a week-long intensive course exploring the perf
 
 
 
-###Tilde New Music Academy 2017
+### Tilde New Music Academy 2017
 
-####15-21 January 
+#### 15-21 January 
 
-####The Channel, Arts Centre Melbourne
+#### The Channel, Arts Centre Melbourne
 
 **Map and venue information:** [The Channel](https://www.artscentremelbourne.com.au/discover/the-channel) 
 
 **Tickets:** [Tilde New Music Academy Discussion Events](https://www.artscentremelbourne.com.au/whats-on/2017/the-channel/tilde-new-music-academy-public-program)
 
-###In Depth – Tilde Academy Discussion Events
+### In Depth – Tilde Academy Discussion Events
 This year, Tilde New Music Academy and The Channel at Arts Centre Melbourne hosts three discussion events centred on contemporary art and experimental music practice. 
 
 Tickets are available from the Arts Centre Website (see links, and please note the dates and times below when booking your ticket). $15 full/$10 conc.
 
-##In Depth #1: On Improvisation and Spontaneous Collaboration
+## In Depth #1: On Improvisation and Spontaneous Collaboration
 **Sunday the 15th of January, 2pm to 3:30pm**
 
 **Aviva Endean and Mohamed Kubbara (or Gary Butler)**
@@ -45,7 +45,7 @@ Her recent original works include the ‘Intimate Sound Immersion‘, a performa
 Gary has been performing improvised music for 20 years. His interest in extending the range of the guitar has led to him rubbing pizza into the strings, throwing a guitar from a 3rd storey window, nailing a guitar to a cross, having food fights with his family on stage, writing a PhD thesis on prepared instruments, playing J.S. Bach’s “Prelude in Dm” and playing/attacking the guitar with various items including (but not limited to) toys, a bird cage, a vibrator, shoes, sticks, polystyrene, fireworks, a battery operated masturbating hand, an axe and a kitchen sink
 
 
-##In Depth #2: On Audiovisual Performance and Composition
+## In Depth #2: On Audiovisual Performance and Composition
 **Monday the 16th of January, 7pm to 8:30pm**
 
 **Brigid Burke**
@@ -54,7 +54,7 @@ A performance of TRANSIT Plus by Brigid Burke followed by a discussion of contem
 
 TRANSIT Plus is series of performance works that consists of Instinct and Episodes, Green Skies….Moments and TRANSIT for Bb/Bass clarinet, electronics and live video. These compositions reference the environment, architecture of the surrounding areas, sonic and visual improvisation/composition with the creation of multi-layered juxtapositions. These three compositions create linkages between location, audience, artist, and cultural/conceptual space. They explore the roles of visual and sonic representation, communicating with the audience in creating a shared surreal/hyperrealism space with tangible moments.
 
-##IN DEPTH #3: On Commissioning, Collaboration, and Solo Performance
+## IN DEPTH #3: On Commissioning, Collaboration, and Solo Performance
 **Tuesday the 17th of January, 7pm-8:30pm.**
 
 **Phoebe Green (viola), Ben Opie (oboe), Hannah Reardon-Smith (flute)**
@@ -66,7 +66,7 @@ Tickets available [online](https://www.artscentremelbourne.com.au/whats-on/2017/
 
 ---
 
-###Tilde New Music Academy
+### Tilde New Music Academy
 
 ## An exciting opportunity to learn about the composition and performance of Modern Art music.
 
