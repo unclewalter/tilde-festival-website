@@ -7,9 +7,8 @@ published: true
 <span style="text-decoration: underline;">Information for applicants:</span>
 
 
-##Calls for Expressions of Interest in the 2019 festival are NOW OPEN and close on Friday 1st December 2017 at 11:59PM AEST##
-Please read the information below before submitting an application, and [contact us](http://www.tilde.net.au/contact/) with any questions.
-The 2019 Festival is scheduled for Saturday January 19th, 2019.
+## Calls for Tilde New Music Festival 2019 have now closed.
+
 
 *   **No currently open calls, check back regularly!**:
     *   **Projects and performances (now closed: thanks to all who applied)** including notated music, improvisation, installations, and electroacoustic performance. Tilde particularly welcomes submissions featuring solo and ensemble repertoire; female, trans, intersex, and non-binary composers and sound artists; and site-specific works. 
