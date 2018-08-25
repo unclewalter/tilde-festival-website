@@ -30,6 +30,6 @@
   url: "/contact/"
   side: right
 
-- title: "2017 Festival Program"
-  url: "/grid/"
-  side: left
+#- title: "2017 Festival Program"
+#  url: "/grid/"
+#  side: left
