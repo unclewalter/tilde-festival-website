@@ -4,7 +4,9 @@ published: true
 title: Academy
 permalink: /academy/
 ---
-## Tilde New Music Academy 2019
+![Tilde Academy Header]({{site.baseurl}}/images/TildeAcademyHeader.png)
+
+# Tilde New Music Academy 2019
 ## 14-18 January, 2019
 
 Presented by Tilde New Music and Sound Art Inc. in partnership with the Sir Zelman Cowan School of Music, Monash University.
@@ -16,8 +18,7 @@ All students will have the opportunity of at least one private lesson each. Clas
 More details will be announced, including special programs, additional tutors. If your instrument is not
 listed, apply anyway!
 
-[Tilde New Music Academy 2019 Flyer (EN)](/assets/img/TildeBrochure_finalDraft.pdf)
+[Tilde New Music Academy 2019 Flyer (EN)]({{site.baseurl}}/assets/img/TildeBrochure_finalDraft.pdf)
 
 ## Apply Below
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvxpKXuXtAYtuC6ZWMU8mlODMZwk5t3x0Yj_RZ45d34lPpOw/viewform?embedded=true" width="640" height="3102" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
