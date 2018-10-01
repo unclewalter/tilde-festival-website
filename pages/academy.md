@@ -15,8 +15,38 @@ The Tilde New Music Academy is open to composers, performers, and sound artists 
 
 All students will have the opportunity of at least one private lesson each. Classes cover contemporary ensemble and solo performance and composition, improvisation, electroacoustic and acousmatic music, computer music, and cross-disciplinary collaboration, and participants have the opportunity to connect with their peers in the Australasian region.
 
-More details will be announced, including special programs, additional tutors. If your instrument is not
-listed, apply anyway!
+More details will be announced, including special programs, additional tutors. If your instrument is not listed, apply anyway!
+
+### Tutors
+
+Flute - Paula Rae
+Clarinet - Brigid Burke
+Violin - Lizzy Welsh
+Viola - Phoebe Green
+Cello - Katherine Philp
+Bass - Miranda Hill
+Trumpet - Tristram Williams
+Trombone - Ben Marks
+Piano - Alex Waite
+Voice - Deborah Kayser
+
+Composition - Natasha Anderson
+Composition - Pedro Alvarez
+Composition - Cat Hope
+Composition - Chris Dench
+Composition - Dobromila Jaskot
+Composition - Kate Neal
+Composition - Brigid Burke
+
+Installation - Ros Bandt
+
+Interdisciplinary Collaboration - Kollektiv International Totem
+
+### Details
+
+Fee: AUD$450 (full), AUD$400 (concession). Limited scholarships available. 
+
+Accommodation: Mannix College (Clayton) | AUD$140/night
 
 [Tilde New Music Academy 2019 Flyer (EN)]({{site.baseurl}}/assets/img/TildeBrochure_finalDraft.pdf)
 
