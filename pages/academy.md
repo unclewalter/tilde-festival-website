@@ -20,23 +20,40 @@ More details will be announced, including special programs, additional tutors. I
 ### Tutors
 
 Flute - Paula Rae
+
 Clarinet - Brigid Burke
+
 Violin - Lizzy Welsh
+
 Viola - Phoebe Green
+
 Cello - Katherine Philp
+
 Bass - Miranda Hill
+
 Trumpet - Tristram Williams
+
 Trombone - Ben Marks
+
 Piano - Alex Waite
+
 Voice - Deborah Kayser
 
+
 Composition - Natasha Anderson
+
 Composition - Pedro Alvarez
+
 Composition - Cat Hope
+
 Composition - Chris Dench
+
 Composition - Dobromila Jaskot
+
 Composition - Kate Neal
+
 Composition - Brigid Burke
+
 
 Installation - Ros Bandt
 
