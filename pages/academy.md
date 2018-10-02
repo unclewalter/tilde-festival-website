@@ -46,9 +46,9 @@ Interdisciplinary Collaboration - Kollektiv International Totem
 
 Fee: AUD$450 (full), AUD$400 (concession). Limited scholarships available. 
 
-Accommodation: Mannix College (Clayton) | AUD$140/night
+Accommodation: Mannix College (Clayton) / AUD$140/night
 
 [Tilde New Music Academy 2019 Flyer (EN)]({{site.baseurl}}/assets/img/TildeBrochure_finalDraft.pdf)
 
-## Apply Below
+## Apply Below, Applications close October 22nd, 2018.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvxpKXuXtAYtuC6ZWMU8mlODMZwk5t3x0Yj_RZ45d34lPpOw/viewform?embedded=true" width="640" height="3102" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
