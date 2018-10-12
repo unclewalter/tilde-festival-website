@@ -21,7 +21,7 @@ More details will be announced, including special programs, additional tutors. I
 
 Flute - Paula Rae
 
-Clarinet - Brigid Burke
+Clarinet - Brigid Burke & Carl Rosman
 
 Violin - Lizzy Welsh
 
@@ -53,6 +53,9 @@ Composition - Dobromila Jaskot
 Composition - Kate Neal
 
 Composition - Brigid Burke
+
+
+Conducting - Carl Rosman
 
 
 Installation - Ros Bandt
