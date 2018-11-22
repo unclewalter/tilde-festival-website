@@ -25,6 +25,10 @@
 - title: "Calls"
   url: "/calls/"
   side: left
+  
+- title: "Residency"
+  url: "/air/"
+  side: left
 
 - title: "Contact"
   url: "/contact/"
