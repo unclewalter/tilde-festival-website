@@ -29,6 +29,10 @@
 - title: "Residency"
   url: "/air/"
   side: left
+  
+- title: "Volunteer"
+  url: "/volunteer/"
+  side: left
 
 - title: "Contact"
   url: "/contact/"
