@@ -8,4 +8,4 @@ e. [info@tilde.net.au](mailto:info@tilde.net.au)
 
 [Facebook](https://www.facebook.com/tildenewmusic)
 
-[Twitter](https://twitter.com/tildenewmusic)
+[Instagram](https://instagram.com/tildenewmusic)
