@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 Tilde New Music and Sound Art was started in 2013 by Alice Bennett and Vincent Giles, to address the absense of events at the fringes of art music in the southern hemisphere. The first festival was in 2014 and it has grown steadily since then to a biennial, currently eight day event called Tilde New Music Week, encompassing an academy for new music, the festival, and other events. Tilde incorporated in 2018.<br />
-To view the Association Rules, including information about membership, [click here](/images/tilde_RULES.pdf).
+To view the Association Rules, including information about membership, [click here](/images/Tilde_RULES.pdf).
 
 # The Direction
 Tilde New Music and Sound Art Inc., exists for the promotion and support of contemporary art music and related practices of our time. This encompasses: new notated, semi-notated music, free improvisation, computer music, sonic/sound art, and related disciplines that are future-looking, inventive, and/or boundary-pushing. This aesthetic focus limits works to those composed or created within a 50-year period of any given Tilde event, with the exception of works that: are rarely programmed in other contexts; or that address imbalances in representation, access, and diversity. We aim to program works based on merit of the proposal within the criterion set out by the Artistic Directors.<br />
