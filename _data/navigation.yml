@@ -2,15 +2,19 @@
   url: "/"
   side: left
 
-- title: "Festival"
+- title: "TNMW19"
+  url: "/tnmw/"
+  side: left
+
+- title: "~Fest."
   url: "/festival/"
   side: left
   
-- title: "Academy"
+- title: "~Acad."
   url: "/academy/"
   side: left
   
-- title: "Kids"
+- title: "~Kids"
   url: "/play/"
   side: left
 
