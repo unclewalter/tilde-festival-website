@@ -1,8 +1,8 @@
 ---
 layout: page
+published: true
 title: Tilde New Music Academy 2019: Public Concert Series
 permalink: /monash/
-published: true
 ---
 
 # 1. Natasha Anderson + Lizzy Welsh
