@@ -6,4 +6,4 @@ published: true
 ---
 # Tilde New Music Week. 14-19th January, 2019.
 
-[Festival](/festival) . [Academy](/academy) . [Childrens Workshops](/play) . [In Depth](/indepth)
+[~ Festival](/festival) | [~ Academy](/academy) | [ ~ Play: Childrens Workshops](/play) | [~ In Depth](/indepth)
