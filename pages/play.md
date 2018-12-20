@@ -4,7 +4,7 @@ title: Tilde Play
 permalink: /play/
 published: true
 ---
-# Tilde Play: Childrens Workshops
+# Childrens Workshops
 <!-- Insert Copy Here -->
 
 
