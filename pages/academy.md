@@ -1,12 +1,11 @@
 ---
 layout: academy
 published: true
-title: Academy
+title: Tilde New Music Academy 2019
 permalink: /academy/
 ---
 ![Tilde Academy Header]({{site.baseurl}}/images/TildeAcademyHeader.png)
 
-# Tilde New Music Academy 2019
 ## 14-18 January, 2019
 
 Presented by Tilde New Music and Sound Art Inc. in partnership with the Sir Zelman Cowan School of Music, Monash University.
