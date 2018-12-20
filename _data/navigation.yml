@@ -25,6 +25,9 @@
 - title: "~Resi."
   url: "/air/"
   side: left
+  
+- title: "|"
+  side: left
 
 - title: "About"
   url: "/about/"
