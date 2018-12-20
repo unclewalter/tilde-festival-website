@@ -22,7 +22,7 @@ published: true
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457235" data-showlogo="False" data-text="Get Tickets"></div>
 
 ## Made possible with funding and support from:
-![Creative Vic Logo](/assets/img/CreativeVictoriaLogo_lores.jpg
+![Creative Vic Logo](/assets/img/CreativeVictoriaLogo_lores.jpg)
 <br />
 ![Australia Council Logo](/assets/img/aca_logo_horizontal_small_rgb-54322b14eed17.png)
 <br />
