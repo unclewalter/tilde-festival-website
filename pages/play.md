@@ -22,3 +22,9 @@ published: true
 ### 16/Jan/2019, 9:00am.
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455680" data-showlogo="False" data-text="Get Tickets"></div>
+
+## Made possible with funding from:
+![Creative Vic Logo](/assets/img/CreativeVictoriaLogo_lores.jpg)
+<br />
+![Australia Council Logo](/assets/img/aca_logo_horizontal_small_rgb-54322b14eed17.png)
+<br />
