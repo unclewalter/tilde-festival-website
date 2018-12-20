@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "TNMW19"
+- title: "~TNMW19:"
   url: "/tnmw/"
   side: left
 
@@ -14,8 +14,16 @@
   url: "/academy/"
   side: left
   
-- title: "~Kids"
+- title: "~Acad. Concerts."
+  url: "/monash/"
+  side: left
+  
+- title: "~Kids."
   url: "/play/"
+  side: left
+  
+- title: "~Resi."
+  url: "/air/"
   side: left
 
 - title: "About"
@@ -32,10 +40,6 @@
 
 - title: "Calls"
   url: "/calls/"
-  side: left
-  
-- title: "Residency"
-  url: "/air/"
   side: left
   
 - title: "Volunteer"
