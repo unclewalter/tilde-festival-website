@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tilde Play
+title: Tilde Play:
 permalink: /play/
 published: true
 ---
