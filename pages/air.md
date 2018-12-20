@@ -31,3 +31,9 @@ Reading the score – this isn’t such an immediate concern, but after I’ve f
 I started working on the mapping.
 
 Really excited to learn that there’s another science-art mash-up practitioner onsite. She’s called Andrea Rassell, she’s absolutely lovely, and the work she’s doing is really cool! Here’s her website. She has an opening here on Friday night 23rd Nov 6-9pm. I immediately want to sit down and have chats about what we could collaborate on … but I have plants to map!
+
+## Made possible with funding from:
+![Creative Vic Logo](/assets/img/CreativeVictoriaLogo_lores.jpg)
+<br />
+![Australia Council Logo](/assets/img/aca_logo_horizontal_small_rgb-54322b14eed17.png)
+<br />
