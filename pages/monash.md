@@ -4,20 +4,21 @@ published: true
 title: Tilde New Music Academy 2019: Public Concert Series
 permalink: /monash/
 ---
+Tilde New Music Academy presents three public concerts throughout the week. 
 
-# 1. Natasha Anderson + Lizzy Welsh
+## 1. Natasha Anderson + Lizzy Welsh
 <br />
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457232" data-showlogo="False" data-text="Get Tickets"></div>
 <br />
 
-# 2. Tilde New Music Academy Faculty
+## 2. Tilde New Music Academy Faculty
 <br />
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457233" data-showlogo="False" data-text="Get Tickets"></div>
 <br />
 
-# 3. Kollectiv International Totem + Academy Attendees
+## 3. Kollectiv International Totem + Academy Attendees
 <br />
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457235" data-showlogo="False" data-text="Get Tickets"></div>
