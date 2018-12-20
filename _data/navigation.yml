@@ -9,6 +9,10 @@
 - title: "Academy"
   url: "/academy/"
   side: left
+  
+- title: "Kids"
+  url: "/play/"
+  side: left
 
 - title: "About"
   url: "/about/"
