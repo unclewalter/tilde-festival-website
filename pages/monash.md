@@ -1,9 +1,10 @@
 ---
 layout: page
-published: true
 title: Tilde New Music Academy 2019: Public Concert Series
 permalink: /monash/
+published: true
 ---
+
 Tilde New Music Academy presents three public concerts throughout the week. 
 
 ## 1. The Target Has Disappeared (for electronics, baroque violin, voice)
