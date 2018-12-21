@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tilde New Music Academy 2019: Public Concert Series
+title: Tilde New Music Academy 2019 - Public Concert Series
 permalink: /monash/
 published: true
 ---
