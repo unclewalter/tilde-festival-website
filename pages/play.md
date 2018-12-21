@@ -5,7 +5,7 @@ permalink: /play/
 published: true
 ---
 <!-- Insert Copy Here -->
-![Tilde Play Flyer](/assets/img/TildePlay.png)
+![Tilde Play Flyer](/assets/img/TildePlay2-scaled.png)
 <br />
 <!-- Do Not Edit -->
 ### Tilde Play: 8-12yo, Session 1.
@@ -19,7 +19,7 @@ published: true
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455677" data-showlogo="False" data-text="Get Tickets"></div>
 <br />
 ### Tilde Play: 13-16yo
-### 16/Jan/2019, 9:00am.
+### 16/Jan/2019, 10:00am.
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455680" data-showlogo="False" data-text="Get Tickets"></div>
 
