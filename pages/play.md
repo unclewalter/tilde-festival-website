@@ -5,7 +5,7 @@ permalink: /play/
 published: true
 ---
 <!-- Insert Copy Here -->
-![Tilde Play Flyer](/images/TildePlay.png)
+![Tilde Play Flyer](/assets/img/TildePlay.png)
 <br />
 <!-- Do Not Edit -->
 ### Tilde Play: 8-12yo, Session 1.
