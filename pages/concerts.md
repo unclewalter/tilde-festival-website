@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Tilde New Music Academy 2019: Public Concert Series
-permalink: /monash/
+permalink: /concerts/
 ---
 
 Tilde New Music Academy presents three public concerts throughout the week. 
