@@ -4,9 +4,51 @@ title: Tilde New Music Week 2019
 permalink: /tnmw/
 published: true
 ---
+
+[~ Festival](/festival) | [~ Academy](/academy) | [ ~ Play: Childrens Workshops](/play) | [~ In Depth](/indepth) | [~ Academy Concerts](/monash)
+
 # 14-19th January, 2019.
 
-[~ Festival](/festival) | [~ Academy](/academy) | [ ~ Play: Childrens Workshops](/play) | [~ In Depth](/indepth) | [~ Academy Public Concerts](/monash)
+An exciting week of events centred around the presentation, development, and discussion of contemporary art music. Follow the links for more information and tickets for each event.
+
+## [ARTIST-IN-RESIDENCE](/air)
+The final week of residency for Australian composer Naima Fine leading up to a performance at the festival
+13-19 Jan 2019, Testing Grounds
+
+## [IN-DEPTH](/indepth)
+Opening panel discussion event 
+6-8PM Sun 13 Jan 2019, SITEWORKS, Brunswick
+
+## [TILDE NEW MUSIC ACADEMY](/academy)
+An intensive week of study of new and experimental music
+14-18 Jan 2019, Sir Zelman Cowen School of Music, Monash University
+
+## [ACADEMY CONCERTS](/monash)
+Showcasing participants and faculty of the 2019 Tilde New Music Academy
+7pm Wednesday 16th Jan – The Target Has Disappeared – Natasha Anderson and Lizzy Welsh
+7pm Thursday 17th Jan – Ruins to Quatrains – Academy faculty performing solo and ensemble works by faculty and participants
+7 pm Friday 18th Jan – Kollektiv international Totem + Academy participants
+<script async defer src="https://www.trybooking.com/widget.js"></script>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="457232" data-showlogo="False" data-text="Get Tickets"></div>
+<br />
+
+## [TILDE PLAY CHILDREN’S WORKSHOP](/play)
+Introduction to experimental music for 8-12 year-olds and 13-16 year-olds
+15-16 Jan 2019, SITEWORKS, Brunswick
+<script async defer src="https://www.trybooking.com/widget.js"></script>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="455676" data-showlogo="False" data-text="Get Tickets"></div>
+<br />
+<script async defer src="https://www.trybooking.com/widget.js"></script>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="455677" data-showlogo="False" data-text="Get Tickets"></div>
+<br />
+<script async defer src="https://www.trybooking.com/widget.js"></script>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="455680" data-showlogo="False" data-text="Get Tickets"></div>
+
+## [TILDE NEW MUSIC FESTIVAL](/festival)
+A spectacular day of performances and installations
+11am-10pm Sat 19th Jan, Testing Grounds
+<script async defer src="https://www.trybooking.com/widget.js"></script>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="457318" data-showlogo="False" data-text="Get Tickets"></div>
 
 ## Made possible with funding from:
 
