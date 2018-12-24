@@ -49,6 +49,8 @@ Featuring works by both Academy faculty and participants.
 The resident ensemble of the 2019 Tilde New Music Academy will work with participants to develop a performance work throughout the week. This will be the result of an intensive period of experimentation and collaboration. <br />
 [KiT Website](https://sites.google.com/kollektivtotem.com/kollektivtotem/home)
 
+![Academy Concerts](/assets/acad-conc.png)
+
 ## Made possible with funding and support from:
 ![Creative Vic Logo](/assets/img/CreativeVictoriaLogo_lores.jpg)
 <br />
