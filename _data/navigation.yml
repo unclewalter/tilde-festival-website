@@ -1,27 +1,31 @@
 - title: "Home"
   url: "/"
   side: left
+  
 - title: "~TNMW19:"
   url: "/tnmw/"
   side: left
+  
 - title: "~Fest."
   url: "/festival/"
   side: left
+  
 - title: "~Acad."
   url: "/academy/"
   side: left
+  
 - title: "~Acad. Concerts."
   url: "/monash/"
   side: left  
+  
 - title: "~Kids."
   url: "/play/"
   side: left  
+  
 - title: "~Resi."
   url: "/air/"
   side: left  
-- title: "|"
-  side: left
-  
+
 - title: "About"
   url: "/about/"
   side: left
@@ -34,9 +38,9 @@
   url: "/photos/"
   side: left
 
-- title: "Calls"
-  url: "/calls/"
-  side: left
+#- title: "Calls"
+#  url: "/calls/"
+#  side: left
   
 - title: "Volunteer"
   url: "/volunteer/"
