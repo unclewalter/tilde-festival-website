@@ -33,6 +33,10 @@ Megan Steller is an artist manager, writer and producer based in Melbourne, Aust
 ## Elise Pendergast - Intern
 Entertainment management student and bachelor of music (voice) graduate Elise Pendergast is breaking into the Australian music and entertainment scene. Having moved her life from East Gippsland Elise has big dreams for her future career in the industry. Working for organisations such as Ravens Nest Artists and the Australian Institute of Youth Performing Arts Australia have taught Elise the importance of hard work and resilience. Along with such roles Elise has been apart of some of Melbourne’s biggest events, which include Melbourne Music Week, Melbourne Fashion Week, Moomba Festival, St Kilda Festival and The Falls Festival just to name a few. Now in her final stages of study at the Australian Institute of Music, Elise hopes to gain as much experience and knowledge as she can from the leaders in the industry.
 
+## James Pendergast - Intern
+Intern bio coming soon. Record label owner, general good dude.
+[Website](http://www.unwoundrecords.com.au)
+
 ## The Committee
 The committee supports the directors in realising the Tilde New Music and Sound Art events, and in providing governance to the association. The committee consists of the following members:<br />
 Alice Bennett - President | [Website](http://www.alicebennett.net)<br />
