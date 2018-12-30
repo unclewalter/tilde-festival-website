@@ -24,13 +24,9 @@ published: true
 
 <div class="TNMW_nav">
   <a href="/festival">~ Festival</a>
-  <span>|</span>
   <a href="/academy">~ Academy</a>
-  <span>|</span>
   <a href="/play">~ Play: Childrens Workshops</a>
-  <span>|</span>
   <a href="/indepth">~ In Depth</a>
-  <span>|</span>
   <a href="/monash">~ Academy Concerts</a>
 </div>
 
