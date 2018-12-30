@@ -30,7 +30,7 @@ published: true
   <a href="/monash">~ Academy Concerts</a>
 </div>
 
-# 14-19th January, 2019.
+# 13-19th January, 2019.
 
 An exciting week of events centred around the presentation, development, and discussion of contemporary art music. Follow the links for more information and tickets for each event.
 
