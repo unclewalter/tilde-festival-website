@@ -24,23 +24,20 @@ An intensive week of study of new and experimental music
 14-18 Jan 2019, Sir Zelman Cowen School of Music, Monash University
 
 ## [ACADEMY CONCERTS](/monash)
-Showcasing participants and faculty of the 2019 Tilde New Music Academy
-7pm Wednesday 16th Jan – The Target Has Disappeared – Natasha Anderson and Lizzy Welsh
+Showcasing participants and faculty of the 2019 Tilde New Music Academy<br />
+7pm Wednesday 16th Jan – The Target Has Disappeared – Natasha Anderson and Lizzy Welsh<br />
 7pm Thursday 17th Jan – Ruins to Quatrains – Academy faculty performing solo and ensemble works by faculty and participants
-7 pm Friday 18th Jan – Kollektiv international Totem + Academy participants
+7 pm Friday 18th Jan – Kollektiv international Totem + Academy participants<br />
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457232" data-showlogo="False" data-text="Get Tickets"></div>
-<br />
 
 ## [TILDE PLAY CHILDREN’S WORKSHOP](/play)
 Introduction to experimental music for 8-12 year-olds and 13-16 year-olds
 15-16 Jan 2019, SITEWORKS, Brunswick
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455676" data-showlogo="False" data-text="Get Tickets"></div>
-<br />
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455677" data-showlogo="False" data-text="Get Tickets"></div>
-<br />
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455680" data-showlogo="False" data-text="Get Tickets"></div>
 
@@ -49,6 +46,8 @@ A spectacular day of performances and installations
 11am-10pm Sat 19th Jan, Testing Grounds
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457318" data-showlogo="False" data-text="Get Tickets"></div>
+
+![TNMW](/assets/img/TNMW_2-scaled.png)
 
 ## Made possible with funding from:
 
