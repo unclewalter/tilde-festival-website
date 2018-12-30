@@ -5,7 +5,34 @@ permalink: /tnmw/
 published: true
 ---
 
-[~ Festival](/festival) | [~ Academy](/academy) | [ ~ Play: Childrens Workshops](/play) | [~ In Depth](/indepth) | [~ Academy Concerts](/monash)
+<style type="text/css">
+.TNMW_nav {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 40px;
+}
+@media only screen and (max-width: 800px) {
+  .TNMW_nav {
+    display: inline-grid;
+  }
+  .TNMW_nav a, .TNMW_nav span {
+      margin-bottom: 5px;
+  }
+}
+</style>
+
+<div class="TNMW_nav">
+  <a href="/festival">~ Festival</a>
+  <span>|</span>
+  <a href="/academy">~ Academy</a>
+  <span>|</span>
+  <a href="/play">~ Play: Childrens Workshops</a>
+  <span>|</span>
+  <a href="/indepth">~ In Depth</a>
+  <span>|</span>
+  <a href="/monash">~ Academy Concerts</a>
+</div>
 
 # 14-19th January, 2019.
 
