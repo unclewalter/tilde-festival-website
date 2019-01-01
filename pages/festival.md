@@ -6,7 +6,7 @@ published: true
 ---
 [2014](/fest2014) ⋅ [2015](/fest2015) ⋅ [2016](/fest2016) ⋅ [2017](/fest2017)
 
-![Tilde NMF Flyer](/assets/TildeNMF.png)
+![Tilde NMF Flyer](/assets/img/TildeNMF-scaled.png)
 
 ## January 19th, 2019. 
 ### Starts at 11:00am
@@ -24,7 +24,7 @@ Now in its fifth iteration, Tilde New Music Festival 2019 presents an exciting l
 ^^ = free<br /><br />
 Alana Blackburn (loc.)<br />
 Lisa Rae Bartolomei, David R Coen, Donald Gray, Gillian Lever and Josh Peters (loc.)<br />
-Berega Saxophone Quartet (loc.)<br />
+Barega Saxophone Quartet (loc.)<br />
 TARAB (loc.)<br />
 Laila Engle & Katherine Philp (loc.)<br />
 Mark Oliveiro and Alicia Crossley (loc.)<br />
