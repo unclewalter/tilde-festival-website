@@ -30,7 +30,7 @@ Laila Engle & Katherine Philp (loc.)<br />
 Mark Oliveiro and Alicia Crossley (loc.)<br />
 Eric Normand and Jim Denley (int./loc.)^^<br />
 Phil Boniface & Alistair Fraser (int.)<br />
-Lamorna Nightingale (loc.) <br />
+Lamorna Nightingale, Jane Sheldon, Fiona Hill (loc.) <br />
 Alexandra Spence (loc.)^^ <br />
 Carl Rosman (loc./int.) <br />
 Pedro Alvarez (loc./int.) <br />
