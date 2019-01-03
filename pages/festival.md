@@ -28,7 +28,7 @@ Barega Saxophone Quartet (loc.)<br />
 TARAB (loc.)<br />
 Laila Engle & Katherine Philp (loc.)<br />
 Mark Oliveiro and Alicia Crossley (loc.)<br />
-Eric Normand and Jim Denley (int./loc.)^^<br />
+Eric Normand and Jim Denley (int./loc.)^^§<br />
 Phil Boniface & Alistair Fraser (int.)<br />
 Lamorna Nightingale, Jane Sheldon, Fiona Hill (loc.) <br />
 Alexandra Spence (loc.)^^ <br />
@@ -52,3 +52,4 @@ Featuring Food by [Bomba Woodfired Pizza](http://www.bombawoodfiredpizza.com) (v
 <br />
 ![Australia Council Logo](/assets/img/aca_logo_horizontal_small_rgb-54322b14eed17.png)
 <br />
+§ We acknowledge the support of the Canada Council for the Arts.
