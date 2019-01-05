@@ -55,12 +55,18 @@ Showcasing participants and faculty of the 2019 Tilde New Music Academy<br />
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457232" data-showlogo="False" data-text="Get Tickets"></div>
 
 ## [TILDE PLAY CHILDREN’S WORKSHOP](/play)
-Introduction to experimental music for 8-12 year-olds and 13-16 year-olds
+Tilde Play kids’ workshops are a fun and creative way to learn about sound. They will learn about experimental music and make their own sound compositions.<br />
+
+These workshops will get kids listening actively and exploring new sound worlds. Experimental music’s focus on collaboration, creativity and playfulness provide a fantastic method of music education for children, and these workshops introduce modern music philosophies that are often left out of primary and secondary music education. When all sounds are available for play, children can participate in meaningful musical experiences without having first mastered instrumental skills.<br />
+
 15-16 Jan 2019, SITEWORKS, Brunswick
+**8-12 Workshop 1, 15/Jan**
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455676" data-showlogo="False" data-text="Get Tickets"></div>
+**8-12 Workshop 2, 15/Jan**
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455677" data-showlogo="False" data-text="Get Tickets"></div>
+**13-16, 16/Jan**
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="455680" data-showlogo="False" data-text="Get Tickets"></div>
 
