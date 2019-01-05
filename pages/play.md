@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tilde Play - Childrens Workshops
+title: Tilde Play - Children's Workshops
 permalink: /play/
 published: true
 ---
