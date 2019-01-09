@@ -4,10 +4,10 @@
 - name: "black box"
   colour: '#959595'
   border-colour: '#757575'
-- name: "open box"
+- name: "clear box"
   colour: '#DC8D8D'
   border-colour: '#a76a6a'
-- name: "grounds"
+- name: "outside"
   colour: '#F3C8C7'
   border-colour: '#bb9998'
-  all-day: true
+  all-day: false

@@ -52,7 +52,7 @@ Showcasing participants and faculty of the 2019 Tilde New Music Academy<br />
 7pm Thursday 17th Jan – Ruins to Quatrains – Academy faculty performing solo and ensemble works by faculty and participants
 7 pm Friday 18th Jan – Kollektiv international Totem + Academy participants<br />
 <script async defer src="https://www.trybooking.com/widget.js"></script>
-<div class="tryb-widget" data-type="buttonWidget" data-eid="457232" data-showlogo="False" data-text="Get Tickets"></div>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="457232" data-showlogo="False" data-text="Get Tickets"></div><br />
 
 ## [TILDE PLAY CHILDREN’S WORKSHOP](/play)
 Tilde Play kids’ workshops are a fun and creative way to learn about sound. They will learn about experimental music and make their own sound compositions.<br />
@@ -62,19 +62,19 @@ These workshops will get kids listening actively and exploring new sound worlds.
 15-16 Jan 2019, SITEWORKS, Brunswick
 **8-12 Workshop 1, 15/Jan**
 <script async defer src="https://www.trybooking.com/widget.js"></script>
-<div class="tryb-widget" data-type="buttonWidget" data-eid="455676" data-showlogo="False" data-text="Get Tickets"></div>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="455676" data-showlogo="False" data-text="Get Tickets"></div><br />
 **8-12 Workshop 2, 15/Jan**
 <script async defer src="https://www.trybooking.com/widget.js"></script>
-<div class="tryb-widget" data-type="buttonWidget" data-eid="455677" data-showlogo="False" data-text="Get Tickets"></div>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="455677" data-showlogo="False" data-text="Get Tickets"></div><br />
 **13-16, 16/Jan**
 <script async defer src="https://www.trybooking.com/widget.js"></script>
-<div class="tryb-widget" data-type="buttonWidget" data-eid="455680" data-showlogo="False" data-text="Get Tickets"></div>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="455680" data-showlogo="False" data-text="Get Tickets"></div><br />
 
 ## [TILDE NEW MUSIC FESTIVAL](/festival)
 A spectacular day of performances and installations
 11am-10pm Sat 19th Jan, Testing Grounds
 <script async defer src="https://www.trybooking.com/widget.js"></script>
-<div class="tryb-widget" data-type="buttonWidget" data-eid="457318" data-showlogo="False" data-text="Get Tickets"></div>
+<div class="tryb-widget" data-type="buttonWidget" data-eid="457318" data-showlogo="False" data-text="Get Tickets"></div><br />
 
 ![TNMW](/assets/img/TNMW_2-scaled.png)
 
