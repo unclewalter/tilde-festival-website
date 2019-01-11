@@ -76,7 +76,7 @@ A spectacular day of performances and installations
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457318" data-showlogo="False" data-text="Get Tickets"></div><br />
 
-![TNMW](/assets/img/TNMW_2-scaled.png)
+![TNMW](/assets/img/TNMW_4.png)
 
 ## Made possible with funding from:
 
