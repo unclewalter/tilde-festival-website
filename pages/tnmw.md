@@ -25,7 +25,7 @@ published: true
 <div class="TNMW_nav">
   <a href="/festival">~ Festival</a>
   <a href="/academy">~ Academy</a>
-  <a href="/play">~ Play: Childrens Workshops</a>
+  <!-- <a href="/play">~ Play: Childrens Workshops</a>-->
   <a href="/indepth">~ In Depth</a>
   <a href="/monash">~ Academy Concerts</a>
 </div>
@@ -33,6 +33,8 @@ published: true
 # 13-19th January, 2019.
 
 An exciting week of events centred around the presentation, development, and discussion of contemporary art music. Follow the links for more information and tickets for each event.
+
+![TNMW](/assets/img/TNMW_4.png)
 
 ## [ARTIST-IN-RESIDENCE](/air)
 The final week of residency for Australian composer Naima Fine leading up to a performance at the festival
@@ -72,7 +74,6 @@ A spectacular day of performances and installations
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457318" data-showlogo="False" data-text="Get Tickets"></div><br />
 
-![TNMW](/assets/img/TNMW_4.png)
 
 ## Made possible with funding from:
 
