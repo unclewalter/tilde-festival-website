@@ -49,7 +49,7 @@ An intensive week of study of new and experimental music
 ## [ACADEMY CONCERTS](/monash)
 Showcasing participants and faculty of the 2019 Tilde New Music Academy<br />
 7pm Wednesday 16th Jan – The Target Has Disappeared – Natasha Anderson and Lizzy Welsh<br />
-7pm Thursday 17th Jan – Ruins to Quatrains – Academy faculty performing solo and ensemble works by faculty and participants
+7pm Thursday 17th Jan – Ruins to Quatrains – Academy faculty performing solo and ensemble works by faculty and participants<br />
 7 pm Friday 18th Jan – Kollektiv international Totem + Academy participants<br />
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="buttonWidget" data-eid="457232" data-showlogo="False" data-text="Get Tickets"></div><br />
