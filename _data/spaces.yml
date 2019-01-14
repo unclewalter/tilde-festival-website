@@ -10,7 +10,7 @@
 - name: "outside"
   colour: '#A7526E'
   border-colour: '#bb9998'
-- name: "installation/all day"
+- name: "installation"
   colour: '#CE6689'
   border-colour: 'bb9998'
   all-day: true
