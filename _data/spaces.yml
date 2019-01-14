@@ -1,13 +1,13 @@
-- name: "white box"
-  colour: '#ffffff'
-  border-colour: '#eeeeee'
 - name: "black box"
-  colour: '#959595'
+  colour: '#7AB6B2'
   border-colour: '#757575'
+- name: "white box"
+  colour: '#D4A249'
+  border-colour: '#eeeeee'
 - name: "clear box"
-  colour: '#DC8D8D'
+  colour: '#E55A49'
   border-colour: '#a76a6a'
 - name: "outside"
-  colour: '#F3C8C7'
+  colour: '#A7526E'
   border-colour: '#bb9998'
   all-day: false
