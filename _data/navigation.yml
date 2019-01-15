@@ -9,6 +9,10 @@
 - title: "~Fest."
   url: "/festival/"
   side: left
+
+- title: "~GRID"
+  url: "/grid/"
+  side: left
   
 - title: "~Acad."
   url: "/academy/"
@@ -42,9 +46,9 @@
 #  url: "/calls/"
 #  side: left
   
-- title: "Volunteer"
-  url: "/volunteer/"
-  side: left
+#- title: "Volunteer"
+#  url: "/volunteer/"
+#  side: left
 
 - title: "Contact"
   url: "/contact/"
