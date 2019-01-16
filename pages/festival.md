@@ -6,8 +6,7 @@ published: true
 ---
 [2014](/fest2014) ⋅ [2015](/fest2015) ⋅ [2016](/fest2016) ⋅ [2017](/fest2017)
 
-![Tilde NMF Flyer](/assets/img/TildeNMF-scaled.png)
-
+## [CLICK HERE FOR THE FESTIVAL GRID](/grid)
 ## January 19th, 2019. 
 ### Starts at 11:00am
 ### Testing Grounds, 1 City Rd, Southbank
@@ -53,3 +52,5 @@ Featuring Food by [Bomba Woodfired Pizza](http://www.bombawoodfiredpizza.com) (v
 ![Australia Council Logo](/assets/img/aca_logo_horizontal_small_rgb-54322b14eed17.png)
 <br />
 § We acknowledge the support of the Canada Council for the Arts.
+
+![Tilde NMF Flyer](/assets/img/TildeNMF-scaled.png)
