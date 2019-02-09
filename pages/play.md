@@ -14,8 +14,8 @@ These workshops will get kids listening actively and exploring new sound worlds.
 <!-- **8-12 Years** -->
 
 ### Tilde Play: 5-10 years
-## Saturday 2nd March 2019, 10:00-11:30 am
-## Siteworks, Brunswick
+### Saturday 2nd March 2019, 10:00-11:30 am
+### Siteworks, Brunswick
 
 Presented in partnership with Paint What You Hear<br />
 
@@ -27,8 +27,8 @@ This workshop uses contemporary music and visual art to engage young people and 
 
 <!-- Do Not Edit -->
 ### Tilde Play: 13-16 years
-## Sunday 3rd March 2019, 10 am to 2 pm
-## Siteworks, Brunswick
+### Sunday 3rd March 2019, 10 am to 2 pm
+### Siteworks, Brunswick
 
 Presented by Miranda Hill (3 Shades Black) and Erica Rasmussen (Paint What You Hear) 
 
@@ -42,7 +42,7 @@ Participants learn about experimental music and 20th and 21st century philosophi
 
 <br />
 
-## Made possible with funding from:
+### Made possible with funding from:
 <br />
 ![Australia Council Logo](/assets/img/aca_logo_horizontal_small_rgb-54322b14eed17.png)
 <br />
