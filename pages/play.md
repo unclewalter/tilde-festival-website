@@ -27,14 +27,12 @@ This workshop uses contemporary music and visual art to engage young people and 
 
 <!-- Do Not Edit -->
 ### Tilde Play: 13-16 years
-### Sunday 3rd March 2019, 10 am to 2 pm
+### Sunday 3rd March 2019, 10 am to 1 pm
 ### Siteworks, Brunswick
 
 Presented by Miranda Hill (3 Shades Black) and Erica Rasmussen (Paint What You Hear) 
 
 Participants learn about experimental music and 20th and 21st century philosophies of music: that all sound can be music! They will explore the worlds of serialism, extended techniques, and graphic scores through games and activities, culminating in a short performance. 
-
-<br />-->
 
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 
